@@ -99,10 +99,10 @@
             </li>
           {{ end }}
         {{- end }}
-        {{ $shouldAddSeparator:= partial "helpers/add-navbar-separator.html" . }}
+        <!-- {{ $shouldAddSeparator:= partial "helpers/add-navbar-separator.html" . }}
         {{ if $shouldAddSeparator }}
           <div class="dropdown-divider" id="top-navbar-divider"></div>
-        {{ end }}
+        {{ end }} -->
         {{ if $blogEnabled }}
           <li class="nav-item">
             <a class="nav-link" id="blog-link" href="{{ "/posts" | relLangURL }}">{{ i18n "posts" }}</a>
