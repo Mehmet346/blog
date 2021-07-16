@@ -1,0 +1,114 @@
+# More documentation here: https://github.com/nicksnyder/go-i18n
+[home]
+other = "Anasayfa"
+
+[posts]
+other = "Yazılar"
+
+[toc_heading]
+other = "İçindekiler"
+
+[at]
+other = "-"
+
+[resume]
+other = "Özgeçmişim"
+
+[navigation]
+other = "Menü"
+
+[contact_me]
+other = "Benimle İletişime Geçin:"
+
+[email]
+other = "Email"
+
+[phone]
+other = "Telefon"
+
+[newsletter_text]
+other = "Email bildirimleri ile güncel kalın"
+
+[newsletter_input_placeholder]
+other = "Email giriniz"
+
+[newsletter_warning]
+other = "Email adresinizi girerek güncel yazıların mail adresinize gelmesini kabul etmiş olursunuz"
+
+[submit]
+other = "Gönder"
+
+[hugoAttributionText]
+other = "Powered by"
+
+[prev]
+other = "Geri"
+
+[next]
+other = "İleri"
+
+[improve_this_page]
+other = "Bu sayfayı Geliştir"
+
+[out_of]
+other = "/"
+
+[publications]
+other = "Yayınlar"
+
+[taken_courses]
+other = "Aldığım Kurslar"
+
+[course_name]
+other = "Kurs Adı"
+
+[total_credit]
+other = "Kredi"
+
+[obtained_credit]
+other = "Kazanılan kredi"
+
+[extracurricular_activities]
+other = "Müfredat dışı etkinlikler"
+
+[show_more]
+other = "Daha fazla"
+
+[show_less]
+other = "Daha az"
+
+[responsibilities]
+other = "Sorumluluklarım: "
+
+[present]
+other = "Şu an"
+
+[comments_javascript]
+other = "Görüntülemek için Javascript etkinleştirin"
+
+[comments_by]
+other = "comments powered by"
+
+[read]
+other = "oku"
+
+[project_star]
+other = "Yıldız"
+
+[project_details]
+other = "Detaylar"
+
+[err_404]
+other = "Sayfayı bulamadık. Muhtemelen Mehmet Ali Kaçırdı."
+
+[more]
+other = "Daha"
+
+[view_certificate]
+other = "Sertifikayı görüntüle"
+
+[notes]
+other = "Notlar"
+
+[disclaimer_text]
+other = "Sorumluluk bildirimi"

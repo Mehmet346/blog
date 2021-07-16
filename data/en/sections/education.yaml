@@ -1,0 +1,25 @@
+# section information
+section:
+  name: Eğitim
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Yazılım Mühendisliği
+  icon: fa-microscope
+  timeframe: 2020-2024
+  institution:
+    name: İstanbul Ayvansaray Üniversitesi
+    url: "#"
+  grade: #(optional)
+    scale: GNO
+    achieved: "2.6"
+    outOf: 4
+  publications: #(optional)
+  #- title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #  url: "#"

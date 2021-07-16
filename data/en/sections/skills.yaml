@@ -1,0 +1,25 @@
+# section information
+section:
+  name: Yetenekler
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Ana işletim sistemi olarak kullanıyorum. Bash/shell betikleri yazabiliyorum."
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Git tabanlı geliştirme konusunda deneyimliyim. Çoğunlukla Github kullanıyorum. Ayrıca GitLab ile çalışma deneyimine sahibim."
+  url: "https://git-scm.com/"
+
+- name: C++
+  logo: /images/sections/skills/c++.png
+  summary: "Temel C/C++ programlamayı biliyorum. Programlama ve problem çözme için kullanabilirim."

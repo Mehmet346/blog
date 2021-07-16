@@ -1,0 +1,19 @@
+# some information about you
+name: "Mehmet Ali Özdoğan"
+nickname: "Mehmet Ali"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Merhaba, Ben"
+image: "images/author/john.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "mehmetaliozdogan@ayvansaray.edu.tr"
+  phone: "+90-545-345-47-31"
+
+# some summary about what you do
+summary:
+  - Yazılım Mühendisliği Öğrencisiyim
+  - Şu an C++ öğreniyorum  
+  - Küçük, eğlenceli projeler üzerinde çalışmayı seviyorum
+  - Özgür uygulamar geliştiriyorum
+  - Linux ile çalışmayı seviyorum
+  - Bir yandan da web tasarım ile ilgileniyorum
