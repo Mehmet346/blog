@@ -11,7 +11,7 @@ description: Portfolio and personal blog of John Doe.
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
-customMenus:
+#customMenus:
 # - name: Docs
 #   url: https://toha-guides.netlify.app/posts/
 
