@@ -15,7 +15,7 @@ degrees:
   timeframe: 2020-2024
   institution:
     name: İstanbul Ayvansaray Üniversitesi
-    url: "www.ayvansaray.edu.tr"
+    url: "https://www.ayvansaray.edu.tr/"
   grade: #(optional)
     scale: GNO
     achieved: "2.6"
