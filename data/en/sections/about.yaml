@@ -18,17 +18,17 @@ company:
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: "Bir yandan Ayvansaray Üniversitesi'nde Yazılım Mühendisliği öğrenimime devam ederken bir yandan da A-101 bünyesinde mağaza temsilcisi olarak çalışıyorum. Takım çalışmasını seven, liderlik konusunda sorumluluk alabilen birisiyim. Gelişime açık, dinamik ve her zaman ideallerine ulaşmak için çabalayan bir Yazılım Mühendisi adayıyım."
+summary: "Bir yandan İstanbul Ayvansaray Üniversitesi'nde Yazılım Mühendisliği öğrenimime devam ederken bir yandan da A-101 bünyesinde mağaza temsilcisi olarak çalışıyorum. Takım çalışmasını seven, liderlik konusunda sorumluluk alabilen birisiyim. Gelişime açık, dinamik ve her zaman ideallerine ulaşmak için çabalayan bir Yazılım Mühendisi adayıyım."
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "mehmetaliozdogan@ayvansaray.edu.tr"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/Mehmet346"
 
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"
@@ -36,11 +36,11 @@ socialLinks:
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/mehmet-ali-%C3%B6zdo%C4%9Fan-b5704920b/"
 
 - name: Twitter
   icon: "fab fa-twitter"
-  url: "#"
+  url: "https://twitter.com/mr_ozdgnx"
 
 - name: Facebook
   icon: "fab fa-facebook"
@@ -85,3 +85,4 @@ badges:
 #   name: Example 1
 #   percentage: 75
 #   color: "#00adb5"
+
