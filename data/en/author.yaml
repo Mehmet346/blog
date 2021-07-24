@@ -6,7 +6,7 @@ greeting: "Merhaba, Ben"
 image: "images/author/john.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "mehmetaliozdogan@ayvansaray.edu.tr"
+  email: "mehmetaliozdogan@stu.ayvansaray.edu.tr"
   phone: "+90-545-345-47-31"
 
 # some summary about what you do
