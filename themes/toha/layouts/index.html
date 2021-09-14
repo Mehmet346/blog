@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.Language.Lang }}">
   <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-STZXGV0BN2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-STZXGV0BN2');
+</script>
     <meta name="google-site-verification" content="9tpPmii2Cp0h8HCIr7yJEiPPnxhQQmUoKvxaN9lp1Rw" />
     <title>{{- .Site.Title -}}</title>
     {{ $siteDescription := .Site.Params.description }}
