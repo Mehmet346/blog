@@ -42,7 +42,7 @@ projects:
 - name: Encapsulation
   logo: /images/sections/projects/cpp.png
   role: Developer
-  timeline: "August 2021- Present"
+  timeline: "August 2021 - Present"
   repo: https://github.com/Mehmet346/Encapsulation-Cpp # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: encapsulation in cpp language.
@@ -51,9 +51,19 @@ projects:
 - name: Constructer
   logo: /images/sections/projects/cpp.png
   role: Developer
-  timeline: "September 2021- Present"
+  timeline: "September 2021 - Present"
   repo: https://github.com/Mehmet346/Constructer # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Constructer in cpp language.
   tags: ["professional", "Constructer", "C++"]
+  
+  - name: Object Detection
+  logo: /images/sections/projects/cpp.png
+  role: Developer
+  timeline: "September 2021 - October 2021"
+  repo: https://github.com/Mehmet346/object_detection # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Object Detection in Python language.
+  tags: ["professional", "Object Detection", "Py"]
+  
 
