@@ -56,8 +56,8 @@ projects:
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Constructer in cpp language.
   tags: ["professional", "Constructer", "C++"]
-  
-  - name: Object Detection
+
+- name: Object Detection
   logo: /images/sections/projects/py.png
   role: Developer
   timeline: "September 2021 - October 2021"
