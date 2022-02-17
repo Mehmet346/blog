@@ -23,3 +23,16 @@ skills:
 - name: C++
   logo: /images/sections/skills/c++.png
   summary: "Temel C/C++ programlamayı biliyorum. Programlama ve problem çözme için kullanabilirim."
+  
+- name: HTML/CSS
+  logo: /images/sections/skills/Html-Css.png
+  summary: "Orta seviye HTML/CSS işaretleme dillerini programlamayı biliyorum. Programlama ve problem çözme için kullanabilirim."
+
+- name: JavaScript
+  logo: /images/sections/skills/JavaScript.png
+  summary: "Temel seviye JavaScript programlamayı biliyorum. Programlama ve problem çözme için kullanabilirim."
+
+- name: PHP
+  logo: /images/sections/skills/Php.png
+  summary: "Orta seviye PHP programlamayı biliyorum. Wordpress temaları ile istediğiniz ışık hızında çalışan e-commerge/kişisel web sitelerini sizin için kodlayabilirim."
+
