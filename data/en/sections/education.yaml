@@ -18,7 +18,7 @@ degrees:
     url: "https://www.ayvansaray.edu.tr/"
   grade: #(optional)
     scale: GNO
-    achieved: "2.6"
+    achieved: "2.8"
     outOf: 4
   publications: #(optional)
   #- title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
