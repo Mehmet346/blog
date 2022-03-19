@@ -14,7 +14,7 @@ degrees:
   icon: fa-microscope
   timeframe: 2020-2024
   institution:
-    name: İstanbul Ayvansaray Üniversitesi
+    name: İstanbul Topkapı Üniversitesi
     url: "https://www.ayvansaray.edu.tr/"
   grade: #(optional)
     scale: GNO
