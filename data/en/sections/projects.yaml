@@ -28,7 +28,7 @@ projects:
   repo: https://github.com/Mehmet346/Clash-of-Clans # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Clash Of clans game in cpp language.
-  tags: ["beginner", "Clash Of Clans", "C++"]
+  tags: ["Beginner", "Clash Of Clans", "C++"]
 
 - name: script fotball animation
   logo: /images/sections/projects/JavaScript.png
@@ -37,7 +37,7 @@ projects:
   repo: https://github.com/Mehmet346/little-fotball-game-script # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: script fotball game in Html/Css and JavaScript language.
-  tags: ["beginner", "Html", "CSS", "JavaScript"]
+  tags: ["Beginner", "Html", "CSS", "JavaScript"]
 
 - name: Object Detection
   logo: /images/sections/projects/py.png
@@ -46,6 +46,6 @@ projects:
   repo: https://github.com/Mehmet346/object_detection # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Object Detection in Python language.
-  tags: ["professional", "Object Detection", "Py"]
+  tags: ["Professional", "Object Detection", "Py"]
   
 
