@@ -36,3 +36,7 @@ skills:
   logo: /images/sections/skills/Php.png
   summary: "Orta seviye PHP programlamayı biliyorum. Wordpress temaları ile istediğiniz ışık hızında çalışan e-commerge/kişisel web sitelerini sizin için kodlayabilirim."
 
+- name: Flutter
+  logo: /images/sections/skills/flutter.png
+  summary: "Temel seviye flutter programlamayı biliyorum. Ios ve Android platformlarına uygulama yazabilirim."
+
