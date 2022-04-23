@@ -7,13 +7,13 @@ image: "images/author/john.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "mehmetaliozdogan@stu.ayvansaray.edu.tr"
-  phone: "+90-545-345-47-31"
+  phone: "+90 545 345 47 31"
 
 # some summary about what you do
 summary:
   - Yazılım Mühendisliği Öğrencisiyim
-  - Şu an C++ öğreniyorum  
+  - Şu an Flutter öğreniyorum  
+  - Mobil programlama üzerinde çalışıyorum
   - Küçük, eğlenceli projeler üzerinde çalışmayı seviyorum
   - Özgür uygulamalar geliştiriyorum
   - Linux ile çalışmayı seviyorum
-  - Mobil programlama üzerinde çalışıyorum
