@@ -14,6 +14,7 @@ skills:
 - name: Linux
   logo: /images/sections/skills/linux.png
   summary: "Ana işletim sistemi olarak kullanıyorum. Bash/shell betikleri yazabiliyorum."
+  url: "https://www.linux.com/"
 
 - name: Git
   logo: /images/sections/skills/git.png
@@ -23,16 +24,20 @@ skills:
 - name: C++
   logo: /images/sections/skills/c++.png
   summary: "Orta seviye C/C++ programlamayı biliyorum. Programlama ve problem çözme için kullanabilirim."
+  url: "https://www.cplusplus.com/"
   
 - name: HTML/CSS
   logo: /images/sections/skills/Html-Css.png
   summary: "Wordpress temaları ile istediğiniz ışık hızında çalışan e-commerge/kişisel web sitelerini sizin için kodlayabilirim."
+  url: "https://wordpress.com/"
 
 - name: React Native
   logo: /images/sections/skills/React-Native.png
   summary: "JavaScript frameworkü olan React Native programlamayı biliyorum. Android ve ios platformlarına uygulama yazabilirim."
+  url: "https://reactnative.dev/"
 
 - name: Flutter
   logo: /images/sections/skills/flutter.png
   summary: "Temel seviye flutter programlamayı biliyorum. Android ve ios platformlarına uygulama yazabilirim."
+  url: "https://flutter.dev/"
 
