@@ -26,17 +26,13 @@ skills:
   
 - name: HTML/CSS
   logo: /images/sections/skills/Html-Css.png
-  summary: "Orta seviye HTML/CSS işaretleme dillerini programlamayı biliyorum. Programlama ve problem çözme için kullanabilirim."
+  summary: "Wordpress temaları ile istediğiniz ışık hızında çalışan e-commerge/kişisel web sitelerini sizin için kodlayabilirim."
 
-- name: JavaScript
-  logo: /images/sections/skills/JavaScript.png
-  summary: "Temel seviye JavaScript programlamayı biliyorum. Programlama ve problem çözme için kullanabilirim."
-
-- name: PHP
-  logo: /images/sections/skills/Php.png
-  summary: "Orta seviye PHP programlamayı biliyorum. Wordpress temaları ile istediğiniz ışık hızında çalışan e-commerge/kişisel web sitelerini sizin için kodlayabilirim."
+- name: React Native
+  logo: /images/sections/skills/React-Native.png
+  summary: "JavaScript frameworkü olan React Native programlamayı biliyorum. Android ve ios platformlarına uygulama yazabilirim."
 
 - name: Flutter
   logo: /images/sections/skills/flutter.png
-  summary: "Temel seviye flutter programlamayı biliyorum. Ios ve Android platformlarına uygulama yazabilirim."
+  summary: "Temel seviye flutter programlamayı biliyorum. Android ve ios platformlarına uygulama yazabilirim."
 
