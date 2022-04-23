@@ -32,7 +32,7 @@ skills:
   url: "https://wordpress.com/"
 
 - name: React Native
-  logo: /images/sections/skills/React-Native.png
+  logo: /images/sections/skills/React_Native_Logo.png
   summary: "JavaScript frameworkü olan React Native programlamayı biliyorum. Android ve ios platformlarına uygulama yazabilirim."
   url: "https://reactnative.dev/"
 
