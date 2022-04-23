@@ -38,6 +38,6 @@ skills:
 
 - name: Flutter
   logo: /images/sections/skills/flutter.png
-  summary: "Temel seviye flutter programlamayı biliyorum. Android ve ios platformlarına uygulama yazabilirim."
+  summary: "Dart dili frameworkü olan Flutter programlamayı öğreniyorum. Android ve ios platformlarına uygulama yazacağım"
   url: "https://flutter.dev/"
 
