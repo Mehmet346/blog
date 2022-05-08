@@ -7,7 +7,7 @@ You can modify or distribute the theme without requiring any permission from the
 However, the theme author does not provide any warranty or takes any liability for any issue with the theme."
 
 # Meta description for your site.  This will help the search engines to find your site.
-description: Mehmet Ali Özdoğan'ın portfolyosu ve kişisel bloğudur. Hakkımda daha fazla bilgi edinmek ve iletişime geçmek için tıklayınız...
+description: Mehmet Ali Özdoğan'ın portfolyosu ve kişisel bloğudur. Şu anda İstanbul Topkapı Üniversitesi'nde Yazılım Mühendisliği öğrenimime devam ediyorum. Takım çalışmasını seven, liderlik konusunda sorumluluk alabilen birisiyim. Gelişime açık, dinamik ve her zaman ideallerine ulaşmak için çabalayan bir Yazılım Mühendisi adayıyım.
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
@@ -19,6 +19,6 @@ description: Mehmet Ali Özdoğan'ın portfolyosu ve kişisel bloğudur. Hakkım
 openGraph:
   title: Mehmet Ali Özdoğan
   type: website
-  description: "Mehmet Ali Özdoğan'ın portfolyosu ve kişisel bloğudur. Hakkımda daha fazla bilgi edinmek ve iletişime geçmek için tıklayınız... "
+  description: "Mehmet Ali Özdoğan'ın portfolyosu ve kişisel bloğudur. Şu anda İstanbul Topkapı Üniversitesi'nde Yazılım Mühendisliği öğrenimime devam ediyorum. Takım çalışmasını seven, liderlik konusunda sorumluluk alabilen birisiyim. Gelişime açık, dinamik ve her zaman ideallerine ulaşmak için çabalayan bir Yazılım Mühendisi adayıyım."
   image: images/author/john.png
   url: https://mehmetaliozdogan.com
