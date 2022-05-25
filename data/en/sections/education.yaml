@@ -15,7 +15,7 @@ degrees:
   timeframe: 2020-2024
   institution:
     name: İstanbul Topkapı Üniversitesi
-    url: "https://www.ayvansaray.edu.tr/"
+    url: "https://www.topkapi.edu.tr/"
   grade: #(optional)
     scale: GNO
     achieved: "2.8"
