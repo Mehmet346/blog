@@ -1,25 +1,25 @@
-# section information
-section:
-  name: Deneyimler
-  id: experiences
-  enable: true
-  weight: 3
-  showOnNavbar: true
-  # Can optionally hide the title in sections
-  # hideTitle: true 
+## section information
+#section:
+#  name: Deneyimler
+#  id: experiences
+#  enable: true
+#  weight: 3
+#  showOnNavbar: true
+#  # Can optionally hide the title in sections
+#  # hideTitle: true 
 
-# Your experiences
-experiences:
-- company:
-    name: "A-101 Yeni Mağazacılık A.Ş."
-    url: "https://www.a101.com.tr"
-    location: "İstanbul"
-    overview: "Perakende satış sektörünün öncülerinden 10000'den fazla mağazasıyla Türkiye'nin ileri gelen market zinciri."
-  positions:
-  - designation: Mağaza Temsilcisi
-    start: Ağu 2020
-    end: Kas 2021
-    responsibilities:
-    - Mağaza düzeninin takibi.
-    - Personel yönetimi.
-    - Gelir, gider, kasa hesap takibi.
+## Your experiences
+#experiences:
+#- company:
+#    name: "A-101 Yeni Mağazacılık A.Ş."
+#    url: "https://www.a101.com.tr"
+#    location: "İstanbul"
+#    overview: "Perakende satış sektörünün öncülerinden 10000'den fazla mağazasıyla Türkiye'nin ileri gelen market zinciri."
+#  positions:
+#  - designation: Mağaza Temsilcisi
+#    start: Ağu 2020
+#    end: Kas 2021
+#    responsibilities:
+#    - Mağaza düzeninin takibi.
+#    - Personel yönetimi.
+#    - Gelir, gider, kasa hesap takibi.
