@@ -36,8 +36,3 @@ skills:
   summary: "JavaScript frameworkü olan React Native programlamayı öğreniyorum. Android ve ios platformlarına uygulama yazacağım."
   url: "https://reactnative.dev/"
 
-- name: Flutter
-  logo: /images/sections/skills/flutter.png
-  summary: "Dart dili frameworkü olan Flutter programlamayı öğreniyorum. Android ve ios platformlarına uygulama yazacağım."
-  url: "https://flutter.dev/"
-
