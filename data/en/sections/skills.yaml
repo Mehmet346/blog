@@ -28,7 +28,7 @@ skills:
   
 - name: React
   logo: /images/sections/skills/React-Native.png
-  summary: "React ile frontend uygulamalar geliştiriyorum. Redux,Route,Axios yapısını projelerimde kullanıyorum, Rest,Soap,JSON api olarak verileri kullanabiliyorum,Firebase ve Mysql veri tabanı ile çalışıyorum. TypeScript konusunda kendimi geliştirmeye çalışıyorum "
+  summary: "React ile frontend uygulamalar geliştiriyorum.Redux,Route,Axios yapısını projelerimde kullanıyorum, Rest Soap JSON olarak verileri kullanabiliyorum,Firebase ve Mysql veri tabanı ile çalışıyorum. TypeScript konusunda kendimi geliştirmeye çalışıyorum "
   url: "https://reactjs.org/"
 
 - name: React Native
