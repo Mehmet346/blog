@@ -21,11 +21,6 @@ skills:
   summary: "Git tabanlı geliştirme konusunda deneyimliyim. Çoğunlukla Github kullanıyorum. Ayrıca GitLab ile çalışma deneyimine sahibim."
   url: "https://git-scm.com/"
 
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Orta seviye C/C++ programlamayı biliyorum. Programlama ve problem çözme için kullanabilirim."
-  url: "https://www.cplusplus.com/"
-  
 - name: React
   logo: /images/sections/skills/React-Native.png
   summary: "React ile frontend uygulamalar geliştiriyorum. Redux Route ve Axios yapısını projelerimde kullanıyorum. Rest Soap JSON olarak verileri kullanabiliyorum. Firebase ve Mysql veri tabanı ile çalışıyorum. TypeScript konusunda kendimi geliştirmeye çalışıyorum."
@@ -33,7 +28,7 @@ skills:
 
 - name: React Native
   logo: /images/sections/skills/React-Native.png
-  summary: "JavaScript'in React Native frameworkünü kullanıyorum. Formik Yup Axios ve React Navigation yapısını projelerimde kullanıyorum. Firebase veritabanı ile çalışıyorum. Play Store markete uygulama yükleyebiliyorum."
+  summary: "React Native ile mobil uygulmam geliştiriyorum. Formik Yup Axios ve React Navigation yapısını projelerimde kullanıyorum. Firebase veritabanı ile çalışıyorum. Play Store markete uygulama yükleyebiliyorum."
   url: "https://reactnative.dev/"
   
 - name: Node.js
