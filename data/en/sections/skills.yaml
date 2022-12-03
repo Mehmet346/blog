@@ -52,8 +52,8 @@ skills:
   url: "https://firebase.google.com/"
 
 - name: Near Protocol
-  logo: /images/sections/skills/Near.webp
-  summary: "Near Geliştirici Sertifikasına sahibim. Near ağı üzerinde Web 3.0 çözümleri üretebiliyorum. Rust dilinde Smart Contract oluşturup Web projelerine entegre edebiliyorum. Backend olarak Rust, frontend olarak React kullanıyorum."
+  logo: /images/sections/skills/Near.png
+  summary: "Near Geliştirici Sertifikasına sahibim. Near ağı üzerinde Web 3.0 çözümleri üretebiliyorum. Rust dilinde Smart Contract oluşturup Web projelerine entegre edebiliyorum.Near ağında işletim sistemi olarak Linux, Backend olarak Rust, frontend olarak React kullanıyoruz."
   url: "https://near.org/"
 
 
