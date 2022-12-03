@@ -7,13 +7,12 @@ image: "images/author/john.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "mehmetaliozdogan@stu.topkapi.edu.tr"
-  phone: "+90 545 345 47 31"
 
 # some summary about what you do
 summary:
   - Yazılım Mühendisliği Öğrencisiyim
-  - Şu an React Native öğreniyorum  
-  - Mobil programlama üzerinde çalışıyorum
+  - Şu an React ve React Native öğreniyorum 
+  - Full Stack olarak çalışmayı seviyorum 
   - Cross platformlar üzerinde çalışmayı seviyorum
   - Özgür uygulamalar geliştiriyorum
   - Linux ile çalışmayı seviyorum
