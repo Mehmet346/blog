@@ -30,7 +30,7 @@ projects:
   summary: Chat App in React Native. I used firebase Realtime database, Authentication and socket.io
   tags: ["Beginner", "JavaScript", "React Native", "Firebase"]
 
-- name: Knowledge competition
+- name: Knowledge Competition
   logo: /images/sections/skills/flutter.png
   role: Developer
   timeline: "January 2022 - January 2022"
