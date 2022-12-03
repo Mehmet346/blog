@@ -31,7 +31,7 @@ projects:
   tags: ["Beginner", "JavaScript", "React Native", "Firebase"]
 
 - name: Knowledge competition
-  logo: /images/sections/projects/JavaScript.png
+  logo: /images/sections/skills/flutter.png
   role: Developer
   timeline: "January 2022 - January 2022"
   repo: https://github.com/Mehmet346/little-fotball-game-script # If your project is a public repo on GitHub, then provide this link. it will show star count.
