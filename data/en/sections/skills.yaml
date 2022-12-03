@@ -26,13 +26,29 @@ skills:
   summary: "Orta seviye C/C++ programlamayı biliyorum. Programlama ve problem çözme için kullanabilirim."
   url: "https://www.cplusplus.com/"
   
-- name: HTML/CSS
+- name: React
   logo: /images/sections/skills/Html-Css.png
-  summary: "Işık hızında çalışan e-ticaret/kişisel web sitelerini sizin için kodlayabilirim."
-  url: "https://wordpress.com/"
+  summary: "React ile frontend uygulamalar geliştiriyorum. Redux,Route,Axios yapısını projelerimde kullanıyorum, Rest,Soap,JSON api olarak verileri kullanabiliyorum,Firebase ve Mysql veri tabanı ile çalışıyorum. TypeScript konusunda kendimi geliştirmeye çalışıyorum "
+  url: "https://reactjs.org/"
 
 - name: React Native
   logo: /images/sections/skills/React-Native.png
-  summary: "JavaScript frameworkü olan React Native programlamayı öğreniyorum. Android ve ios platformlarına uygulama yazacağım."
+  summary: "JavaScript'in React Native frameworkünü kullanıyorum. Formik,Yup,Axios,React Navigation yapısını projelerimde kullanıyorum. Firebase veritabanı ile çalışıyorum. Play Store markete uygulama yükleyebiliyorum."
   url: "https://reactnative.dev/"
+  
+- name: Node.js
+  logo: /images/sections/skills/React-Native.png
+  summary: "Node.js ile Backend uygulamalar geliştiriyorum. Socket.io kullandım, bu alanda kendimi yeni geliştirmeye başladım."
+  url: "https://nodejs.org/en/docs/"
+
+- name: MySQL
+  logo: /images/sections/skills/React-Native.png
+  summary: "MySQl veritabanı ile uygulamalarımın verilerini saklıyorum. Function,trigger,Procedure yapılarını kullanıyorum."
+  url: "https://www.mysql.com/"
+
+- name: Firebase
+  logo: /images/sections/skills/React-Native.png
+  summary: "Firebase veritabanı ile uygulamalarımın verilerini saklıyorum. Authenticate, Firestore database ve Realtime database yapılarını kullandım. Nosql veritabanı olarak kullanıyorum."
+  url: "https://firebase.google.com/"
+
 
