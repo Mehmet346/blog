@@ -28,7 +28,7 @@ skills:
 
 - name: React Native
   logo: /images/sections/skills/React-Native.png
-  summary: "React Native ile mobil uygulmam geliştiriyorum. Formik Yup Axios ve React Navigation yapısını projelerimde kullanıyorum. Firebase veritabanı ile çalışıyorum. Play Store markete uygulama yükleyebiliyorum."
+  summary: "React Native ile mobil uygulama geliştiriyorum. Formik Yup Axios ve React Navigation yapısını projelerimde kullanıyorum. Firebase veritabanı ile çalışıyorum. Play Store markete uygulama yükleyebiliyorum."
   url: "https://reactnative.dev/"
   
 - name: Node.js
