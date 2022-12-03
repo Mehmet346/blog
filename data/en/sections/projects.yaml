@@ -21,22 +21,31 @@ buttons:
 
 # your projects
 projects:
-- name: Chat Application
+- name: Chat Uygulaması
   logo: /images/sections/skills/React-Native.png
   role: Developer
   timeline: "September 2022 - February 2023"
   repo: https://github.com/Mehmet346/Clash-of-Clans # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Chat App in React Native. I used firebase Realtime database, Authentication and socket.io
+  summary: React Native kullanarak yazıp Play Store'da yayınladım. Kimlik doğrulama,kayıt olma kısmı ve sohbet odaları olkuşturdum. Firebase gerçek zamanlı veritabanı ve Socket.io kullandım.
   tags: ["JavaScript", "React Native", "Firebase"]
 
-- name: Knowledge Competition
+- name: Bilgi Yarışması
   logo: /images/sections/skills/flutter.png
   role: Developer
   timeline: "January 2022 - January 2022"
   repo: https://github.com/Mehmet346/flutter_Bilgi_Yarismasi # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Knowledge competition app in Dart language and Flutter framework.
+  summary: Flutter'da zorluk derecelerine göre kategorilendirilmiş Bilgi yarışması uygulaması yazdım. Firebase veritabanını kullandım.
   tags: ["Dart", "Flutter", "Firebase"]
+
+- name: Web 3.0
+  logo: /images/sections/skills/Near.webp
+  role: Developer
+  timeline: "February 2023"
+  repo:  https://github.com/Mehmet346/# If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Yakında...
+  tags: ["React", "Node.js", "Firebase", "Near Protocol"]
   
 
