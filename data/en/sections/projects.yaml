@@ -22,13 +22,13 @@ buttons:
 # your projects
 projects:
 - name: Chat Application
-  logo: /images/sections/projects/cpp.png
+  logo: /images/sections/skills/React-Native.png
   role: Developer
   timeline: "September 2022 - February 2023"
   repo: https://github.com/Mehmet346/Clash-of-Clans # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Clash Of clans game in cpp language.
-  tags: ["Beginner", "React Native", "JavaScript", "Firebase"]
+  summary: Chat App in React Native.I used firebase database and socket.io
+  tags: ["Beginner", "JavaScript", "React Native", "Firebase"]
 
 - name: Knowledge competition
   logo: /images/sections/projects/JavaScript.png
@@ -38,14 +38,5 @@ projects:
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Knowledge competition app in Dart language and Flutter framework.
   tags: ["Beginner", "Dart", "Flutter", "Firebase"]
-
-- name: Object Detection
-  logo: /images/sections/projects/py.png
-  role: Developer
-  timeline: "September 2021 - October 2021"
-  repo: https://github.com/Mehmet346/object_detection # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Object Detection in Python language.
-  tags: ["Professional", "Object Detection", "Py"]
   
 
