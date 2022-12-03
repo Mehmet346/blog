@@ -43,7 +43,7 @@ skills:
 
 - name: MySQL
   logo: /images/sections/skills/MySQL.png
-  summary: "MySQl veritabanı ile uygulamalarımın verilerini saklıyorum. Function,trigger,Procedure yapılarını kullanıyorum."
+  summary: "MySQl veritabanı ile uygulamalarımın verilerini saklıyorum.Function,trigger,Procedure yapılarını kullanıyorum."
   url: "https://www.mysql.com/"
 
 - name: Firebase
