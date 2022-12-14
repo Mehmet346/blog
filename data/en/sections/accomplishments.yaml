@@ -11,13 +11,13 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Linux Foundation System Administrator
-  timeline: "March 2018 - March 2019"
+- name: Near Certified Developer
+  timeline: "Nov 2022"
   organization:
-    name: Linux Foundation
-    url: https://www.linuxfoundation.org
-  courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
-  certificateURL: "https://example.com"
+    name: Near Protocol
+    url: https://near.org/
+  courseOverview: In the Near Certified Developer training, we learned how to create a smart contract on the Near network and in Rust language with Andrés Dominguez, Juan Enrique Peña Haaz and Maria Eugenia Arevalo Lizardo and transfer it to the frontend with React. At the end of the live training, I presented my developed application and was eligible to receive Nft a Near Developer Certificate.
+  certificateURL: "https://paras.id/token/x.paras.near::481204/481204%3A1"
 
 - name: Machine Learning
   timeline: "Jun 2020 - Jan 2021"
@@ -35,12 +35,5 @@ accomplishments:
   courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
   certificateURL: "https://example.com"
 
-- name: Mastering Multithreading Programming with Go (Golang)
-  timeline: "Nov 2017 - Mar 2018"
-  organization:
-    name: Udemy
-    url: https://www.udemy.com
-  courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, mulithreading topics.
-  certificateURL: "https://example.com"
  
 
