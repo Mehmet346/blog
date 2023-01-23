@@ -48,7 +48,7 @@ skills:
 
 - name: MongoDB
   logo: /images/sections/skills/MongoDB.png
-  summary: "MongoDB veritabanı ile uygulamalarımın verilerini saklıyorum. Authenticate, MongoDB database ve Monggose yapılarını kullandım. Nosql veritabanı olarak kullanıyorum."
+  summary: "MongoDB veritabanı ile uygulamalarımın verilerini saklıyorum. Authenticate, MongoDB database ve Mongoose yapılarını kullandım. Nosql veritabanı olarak kullanıyorum."
   url: "https://www.mongodb.com/"
 
 - name: Near Protocol
