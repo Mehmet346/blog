@@ -46,6 +46,11 @@ skills:
   summary: "Firebase veritabanı ile uygulamalarımın verilerini saklıyorum. Authenticate, Firestore database ve Realtime database yapılarını kullandım. Nosql veritabanı olarak kullanıyorum."
   url: "https://firebase.google.com/"
 
+- name: MongoDB
+  logo: /images/sections/skills/MongoDB.png
+  summary: "MongoDB veritabanı ile uygulamalarımın verilerini saklıyorum. Authenticate, MongoDB database ve Monggose yapılarını kullandım. Nosql veritabanı olarak kullanıyorum."
+  url: "https://www.mongodb.com/"
+
 - name: Near Protocol
   logo: /images/sections/skills/Near.png
   summary: "Near Geliştirici Sertifikasına sahibim. Near ağı üzerinde Web 3.0 çözümleri üretebiliyorum. Rust dilinde Smart Contract oluşturup Web projelerine entegre edebiliyorum.Near ağında işletim sistemi olarak Linux, Backend olarak Rust, frontend olarak React kullanıyoruz."
