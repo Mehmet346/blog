@@ -21,6 +21,11 @@ skills:
   summary: "Git tabanlı geliştirme konusunda deneyimliyim. Çoğunlukla Github kullanıyorum. Ayrıca GitLab ile çalışma deneyimine sahibim."
   url: "https://git-scm.com/"
 
+- name: Postman
+  logo: /images/sections/skills/postman-icon.png
+  summary: "Postman ile JSON olarak Api tasarlama, oluşturma ve test etme işlemlerini yapıyorum."
+  url: "https://www.postman.com/"
+
 - name: React
   logo: /images/sections/skills/React-Native.png
   summary: "React ile frontend uygulamalar geliştiriyorum. Redux Route ve Axios yapısını projelerimde kullanıyorum. Rest Soap JSON olarak verileri kullanabiliyorum. Firebase ve Mysql veri tabanı ile çalışıyorum. TypeScript konusunda kendimi geliştirmeye çalışıyorum."
