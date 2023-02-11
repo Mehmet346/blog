@@ -1,5 +1,5 @@
 ---
-title: "SSolana Hacker House İstanbul"
+title: "Solana Hacker House İstanbul"
 date: 2023-02-08T08:06:25+06:00
 description: Solana Hacker House İstanbul
 menu:
