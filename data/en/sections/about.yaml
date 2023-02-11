@@ -53,7 +53,7 @@ badges:
 - type: certification
   name: Solana hacker house istanbul
   url: "https://solana.com/tr"
-  badge: "/images/sections/achievements/Near-Certified-Developer.jpg"
+  badge: "/assets/images/sections/achievements/Near-Certified-Developer.jpg"
 
 - type: certification
   name: Near certified developer
