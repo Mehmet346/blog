@@ -28,7 +28,7 @@ skills:
 
 - name: React
   logo: /images/sections/skills/React-Native.png
-  summary: "React ile frontend uygulamalar geliştiriyorum. Redux Route ve Axios yapısını projelerimde kullanıyorum. Rest Soap JSON olarak verileri kullanabiliyorum. Firebase ve Mysql veri tabanı ile çalışıyorum. TypeScript konusunda kendimi geliştirmeye çalışıyorum."
+  summary: "React ile frontend uygulamalar geliştiriyorum. Redux Router ve Axios yapısını projelerimde kullanıyorum. Rest Soap JSON olarak verileri kullanabiliyorum. Firebase ve Mysql veri tabanı ile çalışıyorum. TypeScript konusunda kendimi geliştirmeye çalışıyorum."
   url: "https://reactjs.org/"
 
 - name: React Native
@@ -38,7 +38,7 @@ skills:
   
 - name: Node.js
   logo: /images/sections/skills/NodeJs.png
-  summary: "Node.js ile Backend uygulamalar geliştiriyorum. Socket.io kullandım, bu alanda kendimi geliştirmeye yeni başladım."
+  summary: "Node.js ile Backend api geliştiriyorum. Express, Joi, Nodemon ve Json web token yapılarını kullandım."
   url: "https://nodejs.org/en/docs/"
 
 - name: MySQL
@@ -53,7 +53,7 @@ skills:
 
 - name: MongoDB
   logo: /images/sections/skills/MongoDB.png
-  summary: "MongoDB veritabanı ile uygulamalarımın verilerini saklıyorum. Authenticate, MongoDB database ve Mongoose yapılarını kullandım. Nosql veritabanı olarak kullanıyorum."
+  summary: "MongoDB veritabanı ile uygulamalarımın verilerini saklıyorum. MongoDB database ve Mongoose Schema yapılarını kullandım. Nosql veritabanı olarak kullanıyorum."
   url: "https://www.mongodb.com/"
 
 - name: Near Protocol
