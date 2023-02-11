@@ -1,6 +1,6 @@
 ---
 title: "SSolana Hacker House İstanbul"
-date: 2020-06-08T08:06:25+06:00
+date: 2023-02-08T08:06:25+06:00
 description: Solana Hacker House İstanbul
 menu:
   sidebar:
