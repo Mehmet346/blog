@@ -16,23 +16,15 @@ accomplishments:
   organization:
     name: Near Protocol
     url: https://near.org/
-  courseOverview: In the Near Certified Developer training, we learned how to create a smart contract on the Near network and in Rust language with Andrés Dominguez, Juan Enrique Peña Haaz and Maria Eugenia Arevalo Lizardo and transfer it to the frontend with React. At the end of the live training, I presented my developed application and was eligible to receive Nft a Near Developer Certificate.
+  courseOverview: Near Certified Developer eğitiminde Andrés Dominguez, Juan Enrique Peña Haaz ve Maria Eugenia Arevalo Lizardo ile Near ağında ve Rust dilinde akıllı sözleşme oluşturmayı ve React ile ön uca aktarmayı öğrendik. Canlı eğitim sonunda geliştirdiğim uygulamamı sundum ve Nft a Near Developer Sertifikası almaya hak kazandım.
   certificateURL: "https://paras.id/token/x.paras.near::481204/481204%3A1"
 
-- name: Machine Learning
-  timeline: "Jun 2020 - Jan 2021"
+- name: Makine Öğrenmesi
+  timeline: "Jun 2021 - Jan 2022"
   organization:
     name: Coursera
     url: https://www.coursera.org
-  courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
-  certificateURL: "https://example.com"
-
-- name: Grokking the System Design Interview
-  timeline: "Jan 2018 - Sept 2018"
-  organization:
-    name: educative
-    url: https://www.educative.io
-  courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
+  courseOverview: Bu ders, makine öğrenimi, veri madenciliği ve istatistiksel örüntü tanımaya geniş bir giriş sağlar. Konular şunları içerir: (i) Denetimli öğrenme (parametrik/parametrik olmayan algoritmalar, destek vektör makineleri, çekirdekler, sinir ağları). (ii) Denetimsiz öğrenme (kümeleme, boyutluluk azaltma, öneri sistemleri, derin öğrenme). (iii) Makine öğrenimindeki en iyi uygulamalar (yanlılık/varyans teorisi; makine öğreniminde ve yapay zekada yenilik süreci)."
   certificateURL: "https://example.com"
 
  
