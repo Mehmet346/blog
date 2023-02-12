@@ -11,12 +11,12 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Near Certified Developer
+- name: Near Geliştirici Sertifikası
   timeline: "Nov 2022"
   organization:
     name: Near Protocol
     url: https://near.org/
-  courseOverview: Near Certified Developer eğitiminde Andrés Dominguez, Juan Enrique Peña Haaz ve Maria Eugenia Arevalo Lizardo ile Near ağında ve Rust dilinde akıllı sözleşme oluşturmayı ve React ile ön uca aktarmayı öğrendik. Canlı eğitim sonunda geliştirdiğim uygulamamı sundum ve Nft a Near Developer Sertifikası almaya hak kazandım.
+  courseOverview: Near Geliştirici Sertifikası eğitiminde Andrés Dominguez, Juan Enrique Peña Haaz ve Maria Eugenia Arevalo Lizardo ile Near ağında ve Rust dilinde akıllı sözleşme oluşturmayı ve React ile ön uca aktarmayı öğrendik. Canlı eğitim sonunda geliştirdiğim uygulamamı sundum ve Nft a Near Geliştirici Sertifikası almaya hak kazandım.
   certificateURL: "https://paras.id/token/x.paras.near::481204/481204%3A1"
 
 - name: Makine Öğrenmesi
