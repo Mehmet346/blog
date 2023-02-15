@@ -1,6 +1,6 @@
 # some information about you
 name: "Mehmet Ali Özdoğan"
-nickname: "Mehmet Ali Özdoğan"
+nickname: "Mehmet Ali"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Merhaba, Ben"
 image: "images/author/john.png"
