@@ -13,7 +13,7 @@ experiences:
 - company:
     name: "SaveAs Yazılım "
     url: "https://www.saveas.com.tr/"
-    location: " Çekmeköy, İstanbul"
+    location: "İstanbul"
     overview: "Saveas Yazılım, yazılım geliştirme ve dijital dönüşüm hizmetleri veren bir teknoloji firmasıdır. Şimdiye kadar başarıyla tamamladığı yüzlerce yazılım projesi, e-ticaret siteleri, mobil uygulama projeleri, holdinglerden kobilere kadar hizmet veren kurumsal kaynak planlama projeleri ile çalışmalarına devam etmektedir."
   positions:
   - designation: Software Engineer
@@ -27,7 +27,7 @@ experiences:
 - company:
     name: "İnfina Yazılım A.Ş"
     url: "https://infina.com.tr/"
-    location: " Üsküdar, İstanbul"
+    location: "İstanbul"
     overview: "İnfina Yazılım, varlık yönetimi ile portföy saklama yazılımları konusunda sektörünün lider firmasıdır. İnfina Yazılım A.Ş. ürünlerini piyasa talepleri doğrultusunda sürekli geliştirerek yatırım bankacılığı konusundaki faaliyetlerini inovatif yaklaşımıyla sürdürmeyi hedeflemektedir."
   positions:
   - designation: Software Engineer
