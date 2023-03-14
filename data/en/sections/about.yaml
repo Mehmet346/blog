@@ -11,14 +11,14 @@ section:
 designation: Yazılım Mühendisi
 # your company information
 company:
-  name: "SaveAs Yazılım"
-  url: "https://www.saveas.com.tr/"
+  name: "İnfina Yazılım A.Ş"
+  url: "https://infina.com.tr/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: "Şu anda İstanbul Topkapı Üniversitesi'nde Yazılım Mühendisliği öğrenimime devam ediyorum. SaveAs Yazılım şirketinde mobil geliştirici olarak çalışıyorum. Takım çalışmasını seven, liderlik konusunda sorumluluk alabilen birisiyim. Gelişime açık, dinamik ve her zaman ideallerine ulaşmak için çabalayan bir Yazılım Mühendisi adayıyım."
+summary: "Şu anda İstanbul Topkapı Üniversitesi'nde Yazılım Mühendisliği öğrenimime devam ediyorum. İnfina Yazılım şirketinde yazılım mühendisi olarak çalışıyorum. Takım çalışmasını seven, liderlik konusunda sorumluluk alabilen birisiyim. Gelişime açık, dinamik ve her zaman ideallerine ulaşmak için çabalayan bir Yazılım Mühendisi adayıyım."
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
