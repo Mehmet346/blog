@@ -14,53 +14,25 @@ skills:
 - name: Linux
   logo: /images/sections/skills/linux.png
   summary: "Ana işletim sistemi olarak kullanıyorum. Bash/shell betikleri yazabiliyorum."
-  url: "https://www.linux.com/"
 
 - name: Git
   logo: /images/sections/skills/git.png
   summary: "Git tabanlı geliştirme konusunda deneyimliyim. Çoğunlukla Github kullanıyorum. Ayrıca GitLab ile çalışma deneyimine sahibim."
   url: "https://git-scm.com/"
 
-- name: Postman
-  logo: /images/sections/skills/postman-icon.png
-  summary: "Postman ile JSON olarak Api tasarlama, oluşturma ve test etme işlemlerini yapıyorum."
-  url: "https://www.postman.com/"
-
-- name: React
-  logo: /images/sections/skills/React-Native.png
-  summary: "React ile frontend uygulamalar geliştiriyorum. Redux Router ve Axios yapısını projelerimde kullanıyorum. Rest Soap JSON olarak verileri kullanabiliyorum. Firebase ve Mysql veri tabanı ile çalışıyorum. TypeScript konusunda kendimi geliştirmeye çalışıyorum."
-  url: "https://reactjs.org/"
-
-- name: React Native
-  logo: /images/sections/skills/React-Native.png
-  summary: "React Native ile mobil uygulama geliştiriyorum. Formik Yup Axios ve React Navigation yapısını projelerimde kullanıyorum. Firebase veritabanı ile çalışıyorum. Play Store markete uygulama yükleyebiliyorum."
-  url: "https://reactnative.dev/"
+- name: C++
+  logo: /images/sections/skills/c++.png
+  summary: "Orta seviye C/C++ programlamayı biliyorum. Programlama ve problem çözme için kullanabilirim."
   
-- name: Node.js
-  logo: /images/sections/skills/NodeJs.png
-  summary: "Node.js ile Backend api geliştiriyorum. Express, Joi, Nodemon ve Json web token yapılarını kullandım."
-  url: "https://nodejs.org/en/docs/"
+- name: HTML/CSS
+  logo: /images/sections/skills/Html-Css.png
+  summary: "Orta seviye HTML/CSS işaretleme dillerini programlamayı biliyorum. Programlama ve problem çözme için kullanabilirim."
 
-- name: MySQL
-  logo: /images/sections/skills/MySQL.png
-  summary: "MySQL veritabanı ile uygulamalarımın verilerini saklıyorum. Function Trigger ve Procedure yapılarını kullanıyorum."
-  url: "https://www.mysql.com/"
+- name: JavaScript
+  logo: /images/sections/skills/JavaScript.png
+  summary: "Temel seviye JavaScript programlamayı biliyorum. Programlama ve problem çözme için kullanabilirim."
 
-- name: Firebase
-  logo: /images/sections/skills/Firebase.png
-  summary: "Firebase veritabanı ile uygulamalarımın verilerini saklıyorum. Authenticate, Firestore database ve Realtime database yapılarını kullandım. Nosql veritabanı olarak kullanıyorum."
-  url: "https://firebase.google.com/"
-
-- name: MongoDB
-  logo: /images/sections/skills/MongoDB.png
-  summary: "MongoDB veritabanı ile uygulamalarımın verilerini saklıyorum. MongoDB database ve Mongoose Schema yapılarını kullandım. Nosql veritabanı olarak kullanıyorum."
-  url: "https://www.mongodb.com/"
-
-- name: Near Protocol
-  logo: /images/sections/skills/Near.png
-  summary: "Near Geliştirici Sertifikasına sahibim. Near ağı üzerinde Web 3.0 çözümleri üretebiliyorum. Rust dilinde Smart Contract oluşturup Web projelerine entegre edebiliyorum.Near ağında işletim sistemi olarak Linux, Backend olarak Rust, frontend olarak React kullanıyoruz."
-  url: "https://near.org/"
-
-
-
+- name: PHP
+  logo: /images/sections/skills/Php.png
+  summary: "Orta seviye PHP programlamayı biliyorum. Wordpress temaları ile istediğiniz ışık hızında çalışan e-commerge/kişisel web sitelerini sizin için kodlayabilirim."
 
