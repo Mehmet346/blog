@@ -6,13 +6,14 @@ greeting: "Merhaba, Ben"
 image: "images/author/john.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "mehmetaliozdogan@stu.topkapi.edu.tr"
+  email: "mehmetaliozdogan@stu.ayvansaray.edu.tr"
+  phone: "+90-545-345-47-31"
 
 # some summary about what you do
 summary:
   - Yazılım Mühendisliği Öğrencisiyim
-  - Full Stack olarak çalışmayı seviyorum 
-  - Şu an React ve React Native öğreniyorum 
-  - Cross platformlar üzerinde çalışmayı seviyorum
+  - Şu an C++ öğreniyorum  
+  - Küçük, eğlenceli projeler üzerinde çalışmayı seviyorum
   - Özgür uygulamalar geliştiriyorum
   - Linux ile çalışmayı seviyorum
+  - Mobil programlama üzerinde çalışıyorum
