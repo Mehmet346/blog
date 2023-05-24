@@ -75,13 +75,3 @@ skills:
   logo: /images/sections/skills/Near.png
   summary: "Near Geliştirici Sertifikasına sahibim. Near ağı üzerinde Web 3.0 çözümleri üretebiliyorum. Rust dilinde Smart Contract oluşturup Web projelerine entegre edebiliyorum.Near ağında işletim sistemi olarak Linux, Backend olarak Rust, frontend olarak React kullanıyoruz."
   url: "https://near.org/"
-
-- name: Jest
-  logo: /images/sections/skills/jest.png
-  summary: "Jest ile react ve react native komponentleri için unit test yazabiliyorum."
-  url: "https://jestjs.io/"
-
-- name: Selenium
-  logo: /images/sections/skills/selenium.png
-  summary: "Selenium ile sayfaların davranışlarının tetiklenmesi için test senaryoları ve adımları yazabiliyorum."
-  url: "https://www.selenium.dev/"
