@@ -42,7 +42,7 @@ skills:
   url: "https://nodejs.org/en/docs/"
 
 - name: Redux
-  logo: /images/sections/skills/redux-logo.png
+  logo: /images/sections/skills/reduxlogo.png
   summary: "Redux-toolkit ile state durumlarını kontrol edip, action, reducers ve store yapısı halinde kullanabiiyorum, thunk ve persist ile state durumlarını tutabiliyorum."
   url: "https://redux.js.org/"
   
