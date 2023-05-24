@@ -41,6 +41,11 @@ skills:
   summary: "Node.js ile Backend api geliştiriyorum. Express, Joi, Nodemon ve Json web token yapılarını kullandım."
   url: "https://nodejs.org/en/docs/"
 
+- name: Redux
+  logo: /images/sections/skills/redux-logo.png
+  summary: "Redux-toolkit ile state durumlarını kontrol edip, action, reducers ve store yapısı halinde kullanabiiyorum, thunk ve persist ile state durumlarını tutabiliyorum."
+  url: "https://redux.js.org/"
+
 - name: MySQL
   logo: /images/sections/skills/MySQL.png
   summary: "MySQL veritabanı ile uygulamalarımın verilerini saklıyorum. Function Trigger ve Procedure yapılarını kullanıyorum."
@@ -55,15 +60,8 @@ skills:
   logo: /images/sections/skills/MongoDB.png
   summary: "MongoDB veritabanı ile uygulamalarımın verilerini saklıyorum. MongoDB database ve Mongoose Schema yapılarını kullandım. Nosql veritabanı olarak kullanıyorum."
   url: "https://www.mongodb.com/"
-  
-- name: Javasript
-  logo: /images/sections/skills/javascript.png
-  summary: "Javascript diline genel olarak hakimim, React ve React Native frameworklerinde aktif olarak kullanıyorum, Node.js ile geliştirme tecrübesine sahibim."
-  url: "https://www.javascript.com/"
 
-- name: TypeScript
-  logo: /images/sections/skills/typeScript.com.png
-  summary: "TypeScript dilini öğrenmeye çalışıyorum, React ve React Native frameworklerinde aktif olarak kullanıyorum, Type Safety sağlamaya çalışıyorum."
-  url: "https://www.javascript.com/"
- 
-
+- name: Near Protocol
+  logo: /images/sections/skills/Near.png
+  summary: "Near Geliştirici Sertifikasına sahibim. Near ağı üzerinde Web 3.0 çözümleri üretebiliyorum. Rust dilinde Smart Contract oluşturup Web projelerine entegre edebiliyorum.Near ağında işletim sistemi olarak Linux, Backend olarak Rust, frontend olarak React kullanıyoruz."
+  url: "https://near.org/"
