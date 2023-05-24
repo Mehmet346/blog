@@ -65,9 +65,5 @@ skills:
   logo: /images/sections/skills/redux-logo.png
   summary: "Redux-toolkit ile state durumlarını kontrol edip, action, reducers ve store yapısı halinde kullanabiiyorum, thunk ve persist ile state durumlarını tutabiliyorum."
   url: "https://redux.js.org/"
-  
-- name: Javasript
-  logo: /images/sections/skills/javascript.png
-  summary: "Javascript diline genel olarak hakimim, React ve React Native frameworklerinde aktif olarak kullanıyorum, Node.js ile geliştirme tecrübesine sahibim."
-  url: "https://www.javascript.com/"
+ 
 
