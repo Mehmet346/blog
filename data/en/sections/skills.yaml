@@ -28,14 +28,14 @@ skills:
 
 - name: React
   logo: /images/sections/skills/React-Native.png
-  summary: "React ile frontend uygulamalar geliştiriyorum. Redux Router ve Axios yapısını projelerimde kullanıyorum. Rest Soap JSON olarak verileri kullanabiliyorum. Firebase ve Mysql veri tabanı ile çalışıyorum. TypeScript konusunda kendimi geliştirmeye çalışıyorum."
+  summary: "React ile frontend uygulamalar geliştiriyorum. Redux thunk ve persist ile state durumlarını kontrol edebiliyorum. Rest Soap JSON olarak verileri kullanabiliyorum. MongoDB ve Mysql veri tabanı ile çalışıyorum. TypeScript konusunda kendimi geliştirmeye çalışıyorum."
   url: "https://reactjs.org/"
 
 - name: React Native
   logo: /images/sections/skills/React-Native.png
-  summary: "React Native ile mobil uygulama geliştiriyorum. Formik Yup Axios ve React Navigation yapısını projelerimde kullanıyorum. Firebase veritabanı ile çalışıyorum. Play Store markete uygulama yükleyebiliyorum."
+  summary: "React Native ile mobil uygulama geliştiriyorum. Redux thunk ve persist ile state durumlarını kontrol edebiliyorum. MongoDB ve Mysql veritabanı ile çalışıyorum. Gradle ve Pod ile çalışma deneyimine sahibim. Ios ve Android Markete yükleme yapabiliyorum."
   url: "https://reactnative.dev/"
-  
+
 - name: Node.js
   logo: /images/sections/skills/NodeJs.png
   summary: "Node.js ile Backend api geliştiriyorum. Express, Joi, Nodemon ve Json web token yapılarını kullandım."
@@ -80,7 +80,3 @@ skills:
   logo: /images/sections/skills/Near.png
   summary: "Near Geliştirici Sertifikasına sahibim. Near ağı üzerinde Web 3.0 çözümleri üretebiliyorum. Rust dilinde Smart Contract oluşturup Web projelerine entegre edebiliyorum.Near ağında işletim sistemi olarak Linux, Backend olarak Rust, frontend olarak React kullanıyoruz."
   url: "https://near.org/"
-
-
-
-
