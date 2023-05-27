@@ -43,7 +43,7 @@ skills:
 
 - name: Next.js
   logo: /images/sections/skills/nextjs-icon.png
-  summary: "Next.js ile React'ın gücünü kullanarak server-side tarafında daha kararlı uygulamalar geliştiryorum. Kendimi geliştirmeye yeni başladım."
+  summary: "Next.js ile React'ın gücünü kullanarak server-side tarafında daha kararlı uygulamalar geliştiriyorum. Kendimi bu frameworkte geliştirmeye yeni başladım."
   url: "https://nextjs.org/"
 
 - name: JavaScript
