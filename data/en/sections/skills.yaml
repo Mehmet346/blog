@@ -73,7 +73,7 @@ skills:
 
 - name: Jest
   logo: /images/sections/skills/jest.png
-  summary: "Jest ile React ve React Native komponentlerine unit test yazabiliyorum."
+  summary: "Jest ile React ve React Native komponentlerine unit test yazabiliyorum. Profesyonel projelerimizde geliştirme sonrası unit test yazmaya özen gösteriyoruz."
   url: "https://jestjs.io/"
 
 - name: Selenium
