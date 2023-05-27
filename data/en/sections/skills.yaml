@@ -13,7 +13,7 @@ section:
 skills:
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Git tabanlı geliştirme konusunda deneyimliyim. Çoğunlukla Github kullanıyorum. Ayrıca GitLab ile çalışma deneyimine sahibim."
+  summary: "Git tabanlı geliştirme konusunda deneyimliyim. Çoğunlukla Github kullanıyorum. Ayrıca Gitea ile çalışma deneyimine sahibim."
   url: "https://git-scm.com/"
 
 - name: Postman
