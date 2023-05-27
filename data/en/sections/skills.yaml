@@ -41,15 +41,20 @@ skills:
   summary: "Node.js ile Backend api geliştiriyorum. Express, Joi, Nodemon ve Json web token yapılarını kullandım."
   url: "https://nodejs.org/en/docs/"
 
+- name: Next.js
+  logo: /images/sections/skills/nextjs-icon.png
+  summary: "Next.js ile React'ın gücünü kullanarak server-side tarafında daha kararlı uygulamalar geliştiryorum. Kendimi geliştirmeye yeni başladım."
+  url: "https://nextjs.org/"
+
 - name: JavaScript
-  logo: /images/sections/skills/NodeJs.png
-  summary: "React, React Native frameworklerini es6-es7 standartları ile kullanabiliyorum, babel, webpack dönüşümleri konusunda bilgiye sahibim."
-  url: "https://nodejs.org/en/docs/"
+  logo: /images/sections/skills/javascript.png
+  summary: "React, React Native ve Node.js frameworklerini es6-es7 standartları ile kullanabiliyorum, babel, webpack dönüşümleri konusunda bilgiye sahibim."
+  url: "https://www.javascript.com/"
 
 - name: TypeScript
-  logo: /images/sections/skills/NodeJs.png
+  logo: /images/sections/skills/typeScript.png
   summary: "React, React Native frameworklerini TypeScript standartları ile de kullanabiliyorum, TypeSafety sağlanması gereken projelerde kullanıyorum."
-  url: "https://nodejs.org/en/docs/"
+  url: "https://www.typescriptlang.org/"
 
 - name: MySQL
   logo: /images/sections/skills/MySQL.png
@@ -67,14 +72,14 @@ skills:
   url: "https://www.mongodb.com/"
 
 - name: Jest
-  logo: /images/sections/skills/MongoDB.png
+  logo: /images/sections/skills/jest.png
   summary: "Jest ile React ve React Native komponentlerine unit test yazabiliyorum."
-  url: "https://www.mongodb.com/"
+  url: "https://jestjs.io/"
 
 - name: Selenium
-  logo: /images/sections/skills/MongoDB.png
-  summary: "Selenium ile React ve React Native sayfalarına test senaryosu yazabiliyorum, chromedriver ile otomasyon testi yapıyoruz."
-  url: "https://www.mongodb.com/"
+  logo: /images/sections/skills/selenium.png
+  summary: "Selenium ile React ve React Native sayfalarına test senaryosu yazabiliyorum, chromedriver ile otomasyon testi ile testini sağlayabiliyorum."
+  url: "https://www.selenium.dev/"
 
 - name: Near Protocol
   logo: /images/sections/skills/Near.png
