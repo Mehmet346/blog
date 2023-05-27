@@ -11,11 +11,6 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "Ana işletim sistemi olarak kullanıyorum. Bash/shell betikleri yazabiliyorum."
-  url: "https://www.linux.com/"
-
 - name: Git
   logo: /images/sections/skills/git.png
   summary: "Git tabanlı geliştirme konusunda deneyimliyim. Çoğunlukla Github kullanıyorum. Ayrıca GitLab ile çalışma deneyimine sahibim."
@@ -25,6 +20,11 @@ skills:
   logo: /images/sections/skills/postman-icon.png
   summary: "Postman ile JSON olarak Api tasarlama, oluşturma ve test etme işlemlerini yapıyorum."
   url: "https://www.postman.com/"
+
+- name: Swagger
+  logo: /images/sections/skills/Swagger.png
+  summary: "Swagger ile RESTful API'lerin belgelendirilmesi ve otomatik test edilmesi konusunda deneyimim var. API'lerin ayrıntılı tanımlamalarını yaparak kullanıcı dostu dökümantasyonlar oluşturmayı sağlıyorum."
+  url: "https://swagger.io/"
 
 - name: React
   logo: /images/sections/skills/React-Native.png
