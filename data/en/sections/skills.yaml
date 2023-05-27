@@ -41,6 +41,16 @@ skills:
   summary: "Node.js ile Backend api geliştiriyorum. Express, Joi, Nodemon ve Json web token yapılarını kullandım."
   url: "https://nodejs.org/en/docs/"
 
+- name: JavaScript
+  logo: /images/sections/skills/NodeJs.png
+  summary: "React, React Native frameworklerini es6-es7 standartları ile kullanabiliyorum, babel, webpack dönüşümleri konusunda bilgiye sahibim."
+  url: "https://nodejs.org/en/docs/"
+
+- name: TypeScript
+  logo: /images/sections/skills/NodeJs.png
+  summary: "React, React Native frameworklerini TypeScript standartları ile de kullanabiliyorum, TypeSafety sağlanması gereken projelerde kullanıyorum."
+  url: "https://nodejs.org/en/docs/"
+
 - name: MySQL
   logo: /images/sections/skills/MySQL.png
   summary: "MySQL veritabanı ile uygulamalarımın verilerini saklıyorum. Function Trigger ve Procedure yapılarını kullanıyorum."
@@ -54,6 +64,16 @@ skills:
 - name: MongoDB
   logo: /images/sections/skills/MongoDB.png
   summary: "MongoDB veritabanı ile uygulamalarımın verilerini saklıyorum. MongoDB database ve Mongoose Schema yapılarını kullandım. Nosql veritabanı olarak kullanıyorum."
+  url: "https://www.mongodb.com/"
+
+- name: Jest
+  logo: /images/sections/skills/MongoDB.png
+  summary: "Jest ile React ve React Native komponentlerine unit test yazabiliyorum."
+  url: "https://www.mongodb.com/"
+
+- name: Selenium
+  logo: /images/sections/skills/MongoDB.png
+  summary: "Selenium ile React ve React Native sayfalarına test senaryosu yazabiliyorum, chromedriver ile otomasyon testi yapıyoruz."
   url: "https://www.mongodb.com/"
 
 - name: Near Protocol
