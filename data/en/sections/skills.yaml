@@ -28,7 +28,7 @@ skills:
 
 - name: React
   logo: /images/sections/skills/React-Native.png
-  summary: "React ile frontend uygulamalar geliştiriyorum. Redux thunk ve persist ile state durumlarını kontrol edebiliyorum. Rest Soap JSON olarak verileri kullanabiliyorum. MongoDB ve Mysql veri tabanı ile çalışıyorum. TypeScript konusunda kendimi geliştirmeye çalışıyorum."
+  summary: "React ile frontend uygulamalar geliştiriyorum. Redux thunk ve persist ile state durumlarını kontrol edebiliyorum. Rest olarak verileri kullanabiliyorum. MongoDB ve Mysql veri tabanı ile çalışıyorum. TypeScript konusunda kendimi geliştirmeye çalışıyorum."
   url: "https://reactjs.org/"
 
 - name: React Native
