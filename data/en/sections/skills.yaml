@@ -33,7 +33,7 @@ skills:
 
 - name: React Native
   logo: /images/sections/skills/React-Native.png
-  summary: "React Native ile mobil uygulama geliştiriyorum. Redux thunk ve persist ile state durumlarını kontrol edebiliyorum. MongoDB ve Mysql veritabanı ile çalışıyorum. Gradle ve Pod ile çalışma deneyimine sahibim. Ios ve Android Markete yükleme yapabiliyorum."
+  summary: "React Native ile mobil uygulama geliştiriyorum. Redux-toolkit ile state durumlarını kontrol edebiliyorum. Redux thunk ve persist ile de state durumlarını local storage'de tutabiliyorum.  MongoDB ve Mysql veritabanı ile çalışıyorum. Gradle ve Pod ile çalışma deneyimine sahibim. Ios ve Android Markete yükleme yapabiliyorum."
   url: "https://reactnative.dev/"
 
 - name: Node.js
