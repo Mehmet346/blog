@@ -23,7 +23,7 @@ skills:
 
 - name: Swagger
   logo: /images/sections/skills/Swagger.png
-  summary: "Swagger ile REST API'lerin belgelendirilmesi ve test edilmesi konusunda deneyimim var."
+  summary: "REST API belgelendirmesinde Swagger'ın sağladığı kolaylık ve esnekliği sayesinde etkin ve anlaşılır API dokümantasyonları oluşturuyorum."
   url: "https://swagger.io/"
 
 - name: React
