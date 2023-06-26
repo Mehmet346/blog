@@ -73,7 +73,7 @@ skills:
 
   - name: Docker
   logo: /images/sections/skills/docker.png
-  summary: "Docker sayesinde uygulamalarımı hızlı ve tutarlı bir şekilde sanallaştırıp dağıtabiliyorum. Çalışma ortamlarının standardizasyonunu sağlayarak takım içinde tutarlı bir geliştirme deneyimi sunuyorum. Docker imajını aldıktan sonra nexus sunucuda build ediyoruz."
+  summary: "Docker sayesinde uygulamalarımı hızlı ve tutarlı bir şekilde sanallaştırıp dağıtabiliyorum. Docker imajını aldıktan sonra nexus sunucuda build ediyoruz. Çalışma ortamlarının standardizasyonunu sağlayarak takım içinde tutarlı bir geliştirme deneyimi sağlıyoruz."
   url: "https://www.docker.com/"
 
 - name: Jest
