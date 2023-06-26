@@ -71,6 +71,11 @@ skills:
   summary: "MongoDB veritabanı ile uygulamalarımın verilerini saklıyorum. MongoDB database ve Mongoose Schema yapılarını kullandım. Nosql veritabanı olarak kullanıyorum."
   url: "https://www.mongodb.com/"
 
+  - name: Docker
+  logo: /images/sections/skills/docker.png
+  summary: "Docker sayesinde uygulamalarımı hızlı ve tutarlı bir şekilde sanallaştırıp dağıtabiliyorum. Çalışma ortamlarının standardizasyonunu sağlayarak takım içinde tutarlı bir geliştirme deneyimi sunuyorum. Docker imajını aldıktan sonra nexus sunucuda build ediyoruz."
+  url: "https://www.docker.com/"
+
 - name: Jest
   logo: /images/sections/skills/jest.png
   summary: "Jest ile React ve React Native komponentlerine unit test yazabiliyorum. Profesyonel projelerimizde geliştirme sonrası unit test yazmaya özen gösteriyoruz."
@@ -81,7 +86,3 @@ skills:
   summary: "Selenium ile React sayfalarına test senaryosu yazabiliyorum, chromedriver ile otomasyon testi ile testini sağlayabiliyorum."
   url: "https://www.selenium.dev/"
 
-- name: Docker
-  logo: /images/sections/skills/docker.png
-  summary: "Docker sayesinde uygulamalarımı hızlı ve tutarlı bir şekilde sanallaştırıp dağıtabiliyorum. Çalışma ortamlarının standardizasyonunu sağlayarak takım içinde tutarlı bir geliştirme deneyimi sunuyorum. Docker imajını aldıktan sonra nexus sunucuda build ediyoruz."
-  url: "https://www.docker.com/"
