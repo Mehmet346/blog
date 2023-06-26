@@ -38,12 +38,12 @@ skills:
 
 - name: Node.js
   logo: /images/sections/skills/NodeJs.png
-  summary: "Node.js ile Backend api geliştiriyorum. Express, Joi, Nodemon ve Json web token yapılarını kullandım."
+  summary: "Backend tarafında Node.js kullanarak performansı yüksek API'ler geliştiriyorum. Express, Joi, Nodemon ve Json web token yapılarını kullandım."
   url: "https://nodejs.org/en/docs/"
 
 - name: Next.js
   logo: /images/sections/skills/nextjs-icon.png
-  summary: "Next.js ile React'ın gücünü kullanarak server-side tarafında daha kararlı uygulamalar geliştiriyorum."
+  summary: "React'ın sunduğu tüm avantajları Next.js ile sunucu tarafına taşıyarak daha kararlı ve etkin uygulamalar geliştirmekteyim."
   url: "https://nextjs.org/"
 
 - name: JavaScript
@@ -63,12 +63,12 @@ skills:
 
 - name: Firebase
   logo: /images/sections/skills/Firebase.png
-  summary: "Firebase veritabanı ile uygulamalarımın verilerini saklıyorum. Authenticate, Firestore database ve Realtime database yapılarını kullandım. Nosql veritabanı olarak kullanıyorum."
+  summary: "Firebase ile oluşturduğum veritabanlarıyla projelerimin hızlı ve etkin şekilde veri ihtiyaçlarını karşılıyorum. Auth, Firestore ve Realtime Database gibi hizmetlerini aktif olarak kullanıyorum."
   url: "https://firebase.google.com/"
 
 - name: MongoDB
   logo: /images/sections/skills/MongoDB.png
-  summary: "MongoDB veritabanı ile uygulamalarımın verilerini saklıyorum. MongoDB database ve Mongoose Schema yapılarını kullandım. Nosql veritabanı olarak kullanıyorum."
+  summary: "MongoDB ile non-relational veritabanları oluşturuyorum. Bu sayede projelerimin ölçeklenebilirlik ve veri entegrasyonu konusunda esneklik kazanmasını sağlıyorum."
   url: "https://www.mongodb.com/"
 
 - name: Docker
@@ -78,10 +78,10 @@ skills:
 
 - name: Jest
   logo: /images/sections/skills/jest.png
-  summary: "Jest ile React ve React Native komponentlerine unit test yazabiliyorum. Profesyonel projelerimizde geliştirme sonrası unit test yazmaya özen gösteriyoruz."
+  summary: "Jest ile React ve React Native uygulamalarıma unit testler yazabiliyorum. Böylece projelerimin kalitesini ve hatasız çalışabilme oranını arttırıyorum."
   url: "https://jestjs.io/"
 
 - name: Selenium
   logo: /images/sections/skills/selenium.png
-  summary: "Selenium ile React sayfalarına test senaryosu yazabiliyorum, chromedriver ile otomasyon testi ile testini sağlayabiliyorum."
+  summary: "Selenium ile React sayfaları için otomasyon test senaryoları yazabiliyorum. Bu sayede uygulamalarımın kullanıcı etkileşimlerini ve performansını test edebiliyorum."
   url: "https://www.selenium.dev/"
