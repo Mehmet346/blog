@@ -18,32 +18,32 @@ skills:
 
 - name: Postman
   logo: /images/sections/skills/postman-icon.png
-  summary: "API tasarımında ve testlerinde Postman'ı etkin bir şekilde kullanmaktayım. Kompleks API tasarımlarını hızlı ve etkili bir şekilde hayata geçirme konusunda deneyim sahibiyim."
+  summary: "Postman ile JSON olarak Api tasarlama, oluşturma ve test etme işlemlerini yapıyorum."
   url: "https://www.postman.com/"
 
 - name: Swagger
   logo: /images/sections/skills/Swagger.png
-  summary: "REST API belgelendirmesinde Swagger'ın sağladığı kolaylık ve esnekliği sayesinde etkin ve anlaşılır API dokümantasyonları oluşturuyorum."
+  summary: "Swagger ile REST API'lerin belgelendirilmesi ve test edilmesi konusunda deneyimim var."
   url: "https://swagger.io/"
 
 - name: React
   logo: /images/sections/skills/React-Native.png
-  summary: "React ile geliştirdiğim modern ve kullanıcı dostu frontend uygulamalarıyla fark yaratıyorum. Redux Thunk ve Persist'in sağladığı avantajları kullanarak verimli state yönetimi yapabiliyorum. MongoDB ve MySQL veritabanlarıyla entegre projeler üretebiliyorum."
+  summary: "React ile frontend uygulamalar geliştiriyorum. Redux thunk ve persist ile state durumlarını kontrol edebiliyorum. Rest olarak verileri kullanabiliyorum. MongoDB ve Mysql veri tabanı ile çalışıyorum. TypeScript konusunda kendimi geliştirmeye çalışıyorum."
   url: "https://reactjs.org/"
 
 - name: React Native
   logo: /images/sections/skills/React-Native.png
-  summary: "React Native kullanarak geliştirdiğim cross-platform mobil uygulamalarla hem iOS hem de Android kullanıcılarına hitap edebiliyorum. Redux Toolkit kullanarak state yönetimini optimize ederken, MongoDB ve MySQL veritabanlarıyla birlikte çalışabiliyorum. Uygulamaları hem iOS hem de Android marketlere yükleyebiliyorum."
+  summary: "React Native ile mobil uygulama geliştiriyorum. Redux-toolkit ile state durumlarını kontrol edebiliyorum. Redux thunk ve persist ile de state durumlarını local storage'de tutabiliyorum.  MongoDB ve Mysql veritabanı ile çalışıyorum. Gradle ve Pod ile çalışma deneyimine sahibim. Ios ve Android Markete yükleme yapabiliyorum."
   url: "https://reactnative.dev/"
 
 - name: Node.js
   logo: /images/sections/skills/NodeJs.png
-  summary: "Backend tarafında Node.js kullanarak performansı yüksek API'ler geliştiriyorum. Express, Joi, Nodemon ve Json Web Token gibi araçları etkin bir şekilde kullanıyorum."
+  summary: "Node.js ile Backend api geliştiriyorum. Express, Joi, Nodemon ve Json web token yapılarını kullandım."
   url: "https://nodejs.org/en/docs/"
 
 - name: Next.js
   logo: /images/sections/skills/nextjs-icon.png
-  summary: "React'ın sunduğu tüm avantajları Next.js ile sunucu tarafına taşıyarak daha kararlı ve etkin uygulamalar geliştirmekteyim."
+  summary: "Next.js ile React'ın gücünü kullanarak server-side tarafında daha kararlı uygulamalar geliştiriyorum."
   url: "https://nextjs.org/"
 
 - name: JavaScript
@@ -58,27 +58,27 @@ skills:
 
 - name: MySQL
   logo: /images/sections/skills/MySQL.png
-  summary: "MySQL ile robust ve güvenli veritabanları oluşturuyorum. Function, Trigger ve Procedure gibi özellikleri etkin şekilde kullanarak projelerimin veri ihtiyaçlarını karşılıyorum."
+  summary: "MySQL veritabanı ile uygulamalarımın verilerini saklıyorum. Function Trigger ve Procedure yapılarını kullanıyorum."
   url: "https://www.mysql.com/"
 
 - name: Firebase
   logo: /images/sections/skills/Firebase.png
-  summary: "Firebase ile oluşturduğum veritabanlarıyla projelerimin hızlı ve etkin şekilde veri ihtiyaçlarını karşılıyorum. Auth, Firestore ve Realtime Database gibi hizmetlerini aktif olarak kullanıyorum."
+  summary: "Firebase veritabanı ile uygulamalarımın verilerini saklıyorum. Authenticate, Firestore database ve Realtime database yapılarını kullandım. Nosql veritabanı olarak kullanıyorum."
   url: "https://firebase.google.com/"
 
 - name: MongoDB
   logo: /images/sections/skills/MongoDB.png
-  summary: "MongoDB ile non-relational veritabanları oluşturuyorum. Bu sayede projelerimin ölçeklenebilirlik ve veri entegrasyonu konusunda esneklik kazanmasını sağlıyorum."
+  summary: "MongoDB veritabanı ile uygulamalarımın verilerini saklıyorum. MongoDB database ve Mongoose Schema yapılarını kullandım. Nosql veritabanı olarak kullanıyorum."
   url: "https://www.mongodb.com/"
 
 - name: Jest
   logo: /images/sections/skills/jest.png
-  summary: "Jest ile React ve React Native uygulamalarıma unit testler yazabiliyorum. Böylece projelerimin kalitesini ve hatasız çalışabilme oranını arttırıyorum."
+  summary: "Jest ile React ve React Native komponentlerine unit test yazabiliyorum. Profesyonel projelerimizde geliştirme sonrası unit test yazmaya özen gösteriyoruz."
   url: "https://jestjs.io/"
 
 - name: Selenium
   logo: /images/sections/skills/selenium.png
-  summary: "Selenium ile React sayfaları için otomasyon test senaryoları yazabiliyorum. Bu sayede uygulamalarımın kullanıcı etkileşimlerini ve performansını test edebiliyorum."
+  summary: "Selenium ile React sayfalarına test senaryosu yazabiliyorum, chromedriver ile otomasyon testi ile testini sağlayabiliyorum."
   url: "https://www.selenium.dev/"
 
 - name: Docker
