@@ -83,5 +83,5 @@ skills:
 
 - name: Docker
   logo: /images/sections/skills/docker.png
-  summary: "Docker sayesinde uygulamalarımı hızlı ve tutarlı bir şekilde dağıtabiliyorum. Çalışma ortamlarının standardizasyonunu sağlayarak takım içinde tutarlı bir geliştirme deneyimi sunuyorum. Ayrıca, Docker ile microservices mimarisini destekleyen ölçeklenebilir uygulamalar oluşturuyorum."
+  summary: "Docker sayesinde uygulamalarımı hızlı ve tutarlı bir şekilde sanallaştırıp dağıtabiliyorum. Çalışma ortamlarının standardizasyonunu sağlayarak takım içinde tutarlı bir geliştirme deneyimi sunuyorum. Docker imajını aldıktan sonra nexus sunucuda build ediyoruz."
   url: "https://www.docker.com/"
