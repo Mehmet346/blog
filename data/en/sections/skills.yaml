@@ -71,7 +71,7 @@ skills:
   summary: "MongoDB veritabanı ile uygulamalarımın verilerini saklıyorum. MongoDB database ve Mongoose Schema yapılarını kullandım. Nosql veritabanı olarak kullanıyorum."
   url: "https://www.mongodb.com/"
 
-  - name: Docker
+- name: Docker
   logo: /images/sections/skills/docker.png
   summary: "Docker sayesinde uygulamalarımı hızlı ve tutarlı bir şekilde sanallaştırıp dağıtabiliyorum. Docker imajını aldıktan sonra nexus sunucuda build ediyoruz. Çalışma ortamlarının standardizasyonunu sağlayarak takım içinde tutarlı bir geliştirme deneyimi sağlıyoruz."
   url: "https://www.docker.com/"
@@ -85,4 +85,3 @@ skills:
   logo: /images/sections/skills/selenium.png
   summary: "Selenium ile React sayfalarına test senaryosu yazabiliyorum, chromedriver ile otomasyon testi ile testini sağlayabiliyorum."
   url: "https://www.selenium.dev/"
-  
