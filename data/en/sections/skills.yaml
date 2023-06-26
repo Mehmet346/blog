@@ -82,6 +82,6 @@ skills:
   url: "https://www.selenium.dev/"
 
 - name: Docker
-  logo: "https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"
+  logo: /images/sections/skills/selenium.png
   summary: "Docker sayesinde uygulamalarımı hızlı ve tutarlı bir şekilde dağıtabiliyorum. Çalışma ortamlarının standardizasyonunu sağlayarak takım içinde tutarlı bir geliştirme deneyimi sunuyorum. Ayrıca, Docker ile microservices mimarisini destekleyen ölçeklenebilir uygulamalar oluşturuyorum."
   url: "https://www.docker.com/"
