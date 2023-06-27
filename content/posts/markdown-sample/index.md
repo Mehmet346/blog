@@ -4,8 +4,8 @@ date: 2023-07-12T09:00:00+03:00
 description: Blockchain teknolojisi ve finans sektöründeki evrimi
 menu:
   sidebar:
-    name: Blockchain'ın Finans Sektörüne Evrimi
-    identifier: blockchain
+    name: blcdlc
+    identifier: cdcdjcn
     weight: 40
 hero: boat.jpg
 ---
