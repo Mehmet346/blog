@@ -1,12 +1,17 @@
 ---
-title: "Blockchain'ın Finans Sektörüne Evrimi"
-date: 2023-07-12T09:00:00+03:00
-description: Blockchain teknolojisi ve finans sektöründeki evrimi
+title: "Markdown Samples"
+date: 2020-06-08T08:06:25+06:00
+description: Markdown rendering samples
+menu:
+  sidebar:
+    name: Markdown Sample
+    identifier: markdown
+    weight: 30
 author:
   name: Jessica Jonas
   image: /images/author/jessica.png
+math: true
 ---
-
 # Blockchain'ın Finans Sektörüne Evrimi
 
 Blockchain teknolojisi, özünde bir veri saklama ve işlem kayıt teknolojisi olmasına rağmen, finans sektörüne entegrasyonu çığır açıcı olmuştur. Bankalar, hükümetler ve finans kurumları, işlemlerin şeffaflığını, güvenliğini ve verimliliğini artırma potansiyeli nedeniyle blockchain'e büyük ilgi göstermektedir.
