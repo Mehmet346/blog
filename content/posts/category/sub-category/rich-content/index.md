@@ -8,7 +8,7 @@ menu:
     identifier: Solana CrossRoads
     parent: Blockchain Etkinlikleri
     weight: 50
-hero: images/crossroads.jpg
+hero: images/achievements/crossroads.jpg
 ---
 
 Solana CrossRoads İstanbul etkinliğine katıldım ve bu post, katılımımın bir özetidir:
