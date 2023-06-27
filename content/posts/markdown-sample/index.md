@@ -1,7 +1,7 @@
 ---
-title: "Solana Hacker House İstanbul"
-date: 2023-02-08T08:06:25+06:00
-description: Solana Hacker House İstanbul
+title: "Blockchain'ın Finans Sektörüne Evrimi"
+date: 2023-07-12T09:00:00+03:00
+description: Blockchain teknolojisi ve finans sektöründeki evrimi
 menu:
   sidebar:
     name: Solana Hacker House İstanbul
