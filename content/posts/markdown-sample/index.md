@@ -1,16 +1,13 @@
 ---
-title: "Blockchain"
-date: 2020-06-08T08:06:25+06:00
-description: Markdown rendering samples
+title: "Solana Hacker House İstanbul"
+date: 2023-02-08T08:06:25+06:00
+description: Solana Hacker House İstanbul
 menu:
   sidebar:
-    name: Blockchain
-    identifier: markdown
-    weight: 30
-author:
-  name: Jessica Jonas
-  image: /images/author/jessica.png
-math: true
+    name: Solana Hacker House İstanbul
+    identifier: Solana Hacker House
+    weight: 40
+hero: boat.jpg
 ---
 # Blockchain'ın Finans Sektörüne Evrimi
 
