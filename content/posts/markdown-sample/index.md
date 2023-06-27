@@ -8,7 +8,7 @@ menu:
     identifier: markdown
     weight: 30
 author:
-  name: Mehmet Ali Ozdogan
+  name: Jessica Jonas
   image: /images/site/main-logo.png
 math: true
 ---
