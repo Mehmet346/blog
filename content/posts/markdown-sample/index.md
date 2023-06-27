@@ -4,12 +4,12 @@ date: 2023-07-12T09:00:00+03:00
 description: Blockchain teknolojisi ve finans sektöründeki evrimi
 menu:
   sidebar:
-    name: Markdown Sample
-    identifier: markdown
+    name: Blockchain teknolojisi ve finans sektöründeki evrimi
+    identifier: blockchain
     weight: 30
 author:
   name: Jessica Jonas
-  image: /images/site/main-logo.png
+  image: /images/author/jessica.png
 math: true
 ---
 # Blockchain'ın Finans Sektörüne Evrimi
