@@ -22,11 +22,11 @@ buttons:
 # your projects
 projects:
 - name: Foneva
-  logo: /images/sections/skills/React-Native.png
+  logo: /images/sections/projects/Foneva.png
   role: Software Engineer
   timeline: "March 2023 -  June 2023"
-  repo: https://github.com/Mehmet346/Chat-Uygulamasi # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "https://apps.apple.com/vn/app/foneva/id1668887276?uo=2"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  repo: https://www.foneva.co/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: "https://apps.apple.com/vn/app/foneva/id1668887276?uo=2"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Foneva, bir mobil telefon alım-satım uygulamasıdır. ios ve android için geliştirmeler yaptım, bu projede yazılım mühendisi olarak görev aldım. Projeye yeni özellikler eklemek ve mevcut hataları düzeltmek gibi sorumluluklarım vardı.
   tags: ["JavaScript", "React Native", "Java", "Spring Boot"]
 
