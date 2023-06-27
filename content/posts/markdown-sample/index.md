@@ -1,5 +1,5 @@
 ---
-title: "Blockchain'ın Finans Sektörüne Evrimi"
+title: "Blockchainin Finans Sektörüne Evrimi"
 date: 2023-07-12T09:00:00+03:00
 description: Blockchain teknolojisi ve finans sektöründeki evrimi
 menu:
