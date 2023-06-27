@@ -1,23 +1,40 @@
 ---
-title: ""Solana CrossRoads İstanbul"
-date: 2023-02-20T09:00:00+03:00
-description: Solana CrossRoads İstanbul Etkinliği
+title: "Rich Content"
+date: 2020-06-08T08:06:25+06:00
+description: Sample post with multiple images, embedded video ect.
 menu:
   sidebar:
-    name: Solana CrossRoads İstanbul
-    identifier: Solana CrossRoads
-    parent: Blockchain Etkinlikleri
-    weight: 50
-hero: images/sections/achievements/crossroads.jpg
+    name: Rich Content
+    identifier: rich-content
+    parent: sub-category
+    weight: 10
+hero: images/forest.jpg
 ---
 
-Solana CrossRoads İstanbul etkinliğine katıldım ve bu post, katılımımın bir özetidir:
+This sample post tests the followings:
 
-Solana ekosisteminden farklı aktörlerle tanışma fırsatı buldum.
-Yeni projeleri ve özellikleri inceleme ve tartışma imkanı buldum.
+- Category, sub-category nesting in the sidebar.
+- Hero image and other images are in `images` folder inside this post directory.
+- Different media rendering like image, tweet, YouTube video, Vimeo video etc.
 
 ### Image Sample
 
-{{< img src="/posts/blockchain-events/solana-crossroads-istanbul/images/crossroads.jpg" align="center" title="Solana CrossRoads İstanbul Etkinliği">}}
+{{< img src="/posts/category/sub-category/rich-content/images/forest.jpg" align="center" title="Forest">}}
 
 {{< vs >}}
+
+### Tweet Sample
+
+{{< tweet 1085870671291310081 >}}
+
+{{< vs >}}
+
+### YouTube Video Sample
+
+{{< youtube ZJthWmvUzzc >}}
+
+{{< vs >}}
+
+### Vimeo Video Sample
+
+{{< vimeo 48912912 >}}
