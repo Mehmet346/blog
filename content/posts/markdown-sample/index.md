@@ -1,10 +1,10 @@
 ---
-title: "Blockchain'ın Finans Sektörüne Evrimi"
-date: 2023-07-12T09:00:00+03:00
-description: Blockchain teknolojisi ve finans sektöründeki evrimi
+title: "Markdown Samples"
+date: 2020-06-08T08:06:25+06:00
+description: Markdown rendering samples
 menu:
   sidebar:
-    name: Markdown Sample
+    name: Blockchain
     identifier: markdown
     weight: 30
 author:
