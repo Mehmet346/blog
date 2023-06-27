@@ -7,7 +7,7 @@ menu:
     name: Solana CrossRoads İstanbul
     identifier: Solana CrossRoads
     parent: Blockchain Etkinlikleri
-    weight: 50
+    weight: 100
 hero: images/crossroads.jpg
 ---
 
