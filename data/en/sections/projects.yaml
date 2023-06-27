@@ -36,7 +36,7 @@ projects:
   timeline: "June 2023 -  Continues"
   repo: https://infina.com.tr/analytics-bi-bussiness-intelligence.html # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Suite, infina'da analytics ekibinin admin paneli için oluşturulan bir şirket için yönetim panelidir, Next.js kullanarak yazıyoruz,bu projeyi geliştirmeye devam ediyorum.
+  summary: Suite, infina'da analytics ekibinin admin paneli için oluşturulan bir şirket için yönetim panelidir. Next.js kullanarak yazıyoruz,bu projeyi geliştirmeye devam ediyorum.
   tags: ["Next.js", "Java", "Spring Boot", "Docker"]
   
 
