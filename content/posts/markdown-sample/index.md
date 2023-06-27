@@ -8,7 +8,7 @@ menu:
     identifier: markdown
     weight: 30
 author:
-  name: Mehmet Ali Özdoğan
+  name: Mehmet Ali Ozdogan
   image: /images/site/main-logo.png
 math: true
 ---
