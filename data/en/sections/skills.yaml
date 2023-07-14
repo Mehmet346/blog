@@ -76,6 +76,11 @@ skills:
   summary: "Docker sayesinde uygulamalarımı hızlı ve tutarlı bir şekilde sanallaştırıp dağıtabiliyorum. Docker imajını aldıktan sonra nexus sunucuda build ediyoruz. Çalışma ortamlarının standardizasyonunu sağlayarak takım içinde tutarlı bir geliştirme deneyimi sağlıyoruz."
   url: "https://www.docker.com/"
 
+- name: Jenkins
+  logo: /images/sections/skills/jenkins.png
+  summary: "Jenkins ile sürekli entegrasyon ve sürekli dağıtım süreçlerini otomatikleştiriyorum. Kodun derlemesi, testlerin çalışması ve üretim ortamına aktarılması süreçlerinde büyük kolaylık sağlıyor."
+  url: "https://www.jenkins.io/"
+
 - name: Jest
   logo: /images/sections/skills/jest.png
   summary: "Jest ile React ve React Native uygulamalarıma unit testler yazabiliyorum. Böylece projelerimin kalitesini ve hatasız çalışabilme oranını arttırıyorum."
