@@ -33,10 +33,20 @@ projects:
 - name: Suite Dlight
   logo: /images/sections/projects/suite-logo.png
   role: Software Engineer
-  timeline: "June 2023 -  Continues"
+  timeline: "June 2023 -  August 2023"
   repo: https://infina.com.tr/analytics-bi-bussiness-intelligence.html # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Suite, infina'da analytics ekibinin admin paneli için oluşturulan bir şirket için yönetim panelidir. Next.js kullanarak yazıyoruz,bu projeyi geliştirmeye devam ediyorum.
+  summary: Suite, infina'da analytics ekibinin admin paneli için oluşturulan bir şirket için yönetim panelidir. Kullanıcılar bu uygulama üzerinden kıymet ekleme, tanımlama gibi işlemleri kolaylıkla yapabileceklerdir.
   tags: ["Next.js", "Java", "Spring Boot", "Docker"]
   
+- name: Trive
+  logo: /images/sections/projects/trive.png
+  role: Software Engineer
+  timeline: "August 2023 -  Continues"
+  repo: https://www.trive.com.tr/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Trive, Birçok hisse senedi, fon, altın, petrol gibi menkul kıymetleri içerisinde bulunduran bir borsadır. Bu borsa uygulamasına yapay zeka ile kullanıcının risk porfiline göre yatırım yapmasını sağlayan robo danışman, fonları kategorize eden fon dünyası, alım-satım emirlerini gördüğü emirlerim sayfası ve kullanıcının portföy dağılımını görebileceği fon portföyüm ekranlarını android/ios mobil uygulamalarına entegre ediyorum.
+  tags: ["React Native", "Swift", "Java"]
+  
+
 
