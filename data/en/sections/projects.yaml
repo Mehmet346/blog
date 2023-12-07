@@ -22,13 +22,13 @@ buttons:
 # your projects
 projects:
 
-- name: Fibabanka İnternet Bankacılığı
+- name: Fibabanka 
   logo: /images/sections/projects/fiba.png
   role: Software Engineer
   timeline: "June 2023 -  november 2023"
   repo: https://www.fibabanka.com.tr/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Fibabanka internet şube Fon Market SDK'sına öneri alma, geçmiş öneri hesaplama ve dağılımları görüntüleme ekranlarını entegre ettim .
+  summary: Fibabanka Fon Market SDK'sına öneri alma, geçmiş öneri hesaplama ve dağılımları görüntüleme ekranlarını entegre ettim.
   tags: ["React Native", "Spring Boot"]
 
 - name: Foneva
