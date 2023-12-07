@@ -21,24 +21,16 @@ buttons:
 
 # your projects
 projects:
-- name: Foneva
-  logo: /images/sections/projects/Foneva.png
-  role: Software Engineer
-  timeline: "March 2023 -  June 2023"
-  repo: https://www.foneva.co/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Foneva, bir fon alım-satım uygulamasıdır. ios ve android için geliştirmeler yaptım, bu projede yazılım mühendisi olarak görev aldım. Projeye yeni özellikler eklemek ve mevcut hataları düzeltmek gibi sorumluluklarım vardı.
-  tags: ["React Native", "Java", "Spring Boot"]
 
-- name: Suite Dlight
-  logo: /images/sections/projects/suite-logo.png
+- name: Fibabanka İnternet Şube
+  logo: /images/sections/projects/fiba.png
   role: Software Engineer
-  timeline: "June 2023 -  August 2023"
-  repo: https://infina.com.tr/analytics-bi-bussiness-intelligence.html # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  timeline: "June 2023 -  november 2023"
+  repo: https://www.fibabanka.com.tr/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Suite, infina'da analytics ekibinin admin paneli için oluşturulan bir şirket için yönetim panelidir. Kullanıcılar bu uygulama üzerinden kıymet ekleme, tanımlama gibi işlemleri kolaylıkla yapabileceklerdir.
-  tags: ["Next.js", "Java", "Spring Boot", "Docker"]
-  
+  summary: Fibabanka internet şube Fon Market SDK'sına öneri alma, geçmiş öneri hesaplama ve dağılımları görüntüleme ekranlarını entegre ettim 
+  tags: ["React Native", Spring Boot"]
+
 - name: Trive
   logo: /images/sections/projects/trive.png
   role: Software Engineer
@@ -47,6 +39,14 @@ projects:
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary:  Trive mobil uygulamasına yapay zeka ile kullanıcının risk porfiline göre yatırım yapmasını sağlayan robo danışman, fonları kategorize eden fon dünyası, kullanıcının alım-satım emirlerini gördüğü emirlerim sayfası ve portföy dağılımını görebileceği fon portföyüm ekranlarını android/ios mobil uygulamalarına entegre ediyorum.
   tags: ["React Native", "Swift", "Java"]
-  
+
+- name: Foneva
+  logo: /images/sections/projects/Foneva.png
+  role: Software Engineer
+  timeline: "March 2023 -  June 2023"
+  repo: https://www.foneva.co/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Foneva, bir fon alım-satım uygulamasıdır. ios ve android için geliştirmeler yaptım, bu projede yazılım mühendisi olarak görev aldım. Projeye yeni özellikler eklemek ve mevcut hataları düzeltmek gibi sorumluluklarım vardı.
+  tags: ["React Native", "Java", "Spring Boot"]
 
 
