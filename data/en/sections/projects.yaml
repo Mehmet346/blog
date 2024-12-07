@@ -28,7 +28,7 @@ projects:
   timeline: "June 2023 -  Continues"
   repo: https://www.fibabanka.com.tr/yatirim/yatirim-fonlari
   summary: Fibabanka Fon Market SDK'sına öneri alma, geçmiş öneri hesaplama ve dağılımları görüntüleme ekranlarını entegre ettim.
-  tags: ["React Native", "JavaScript"]
+  tags: ["React Native", "React Native Web", "JavaScript"]
 
 - name: Burganbank
   logo: /images/sections/projects/burgan.png
