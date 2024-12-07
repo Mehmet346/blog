@@ -73,12 +73,12 @@ skills:
 
 - name: Azure DevOps
   logo: /images/sections/skills/azureDevops.png
-  summary: "Projedeki sprintin takibi, ürün yönetiminin ilettiği issueların tamamlanması ve uygulamanın cı/cd süreçleri için kullanabiliyorum."
+  summary: "Projedeki sprintin takibi, ürün yönetiminin ilettiği issueların tamamlanması ve uygulamanın CI/CD süreçleri için kullanabiliyorum."
   url: "https://azure.microsoft.com/en-us/products/devops"
 
 - name: Jira
   logo: /images/sections/skills/jira.png
-  summary: "Projedeki sprintin takibi, ürün yönetiminin ilettiği issueların tamamlanması ve uygulamanın cı/cd süreçleri için kullanabiliyorum."
+  summary: "Projedeki sprintin takibi, ürün yönetiminin ilettiği issueların tamamlanması ve uygulamanın CI/CD süreçleri için kullanabiliyorum."
   url: "https://www.atlassian.com/"
 
 - name: Docker
