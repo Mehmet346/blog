@@ -38,7 +38,7 @@ skills:
 
 - name: React Native Web
   logo: /images/sections/skills/React-Native.png
-  summary: "React Native Wen ile web uygulama geliştiriyorum. State managment olarak redux-toolkit kullanıyorum. Webpack ile çalışma deneyimine sahibim, web geliştirmede react native web ilk tercihim olmasa da, profesyonel bir bankacılık projesinde kullanıp destek verdim. "
+  summary: "React Native Web ile web uygulama geliştiriyorum. State managment olarak redux-toolkit kullanıyorum. Webpack ile çalışma deneyimine sahibim, web geliştirmede react native web ilk tercihim olmasa da, profesyonel bir bankacılık projesinde kullanıp destek verdim. "
   url: "https://reactnative.dev/"
 
 - name: Next.js

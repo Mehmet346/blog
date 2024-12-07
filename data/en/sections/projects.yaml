@@ -25,28 +25,42 @@ projects:
 - name: Fibabanka 
   logo: /images/sections/projects/fiba.png
   role: Software Engineer
-  timeline: "June 2023 -  november 2023"
-  repo: https://www.fibabanka.com.tr/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  timeline: "June 2023 -  Continues"
+  repo: https://www.fibabanka.com.tr/yatirim/yatirim-fonlari
   summary: Fibabanka Fon Market SDK'sına öneri alma, geçmiş öneri hesaplama ve dağılımları görüntüleme ekranlarını entegre ettim.
-  tags: ["React Native", "Spring Boot"]
+  tags: ["React Native", "JavaScript"]
 
-- name: Foneva
-  logo: /images/sections/projects/Foneva.png
+- name: Burganbank
+  logo: /images/sections/projects/burgan.png
   role: Software Engineer
-  timeline: "March 2023 -  June 2023"
-  repo: https://www.foneva.co/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Foneva, bir fon alım-satım uygulamasıdır. ios ve android için geliştirmeler yaptım, bu projede yazılım mühendisi olarak görev aldım. Projeye yeni özellikler eklemek ve mevcut hataları düzeltmek gibi sorumluluklarım vardı.
-  tags: ["React Native", "Java", "Spring Boot"]
+  timeline: "September 2023 -  Continues"
+  repo: https://www.burgan.com.tr/birikim-yonetimi/yatirim-hizmetleri/yatirim-fonlari/burgan-fon-evreni/
+  summary: Burganbank fon evreni, web altyapısıyla geliştirilmiş bir webView uygualamdır, burada çeşitli geliştirmelerde bulundum.
+  tags: ["React", "JavaScript"]
 
-- name: Trive
-  logo: /images/sections/projects/trive.png
+- name: Colendi
+  logo: /images/sections/projects/colendi.png
   role: Software Engineer
   timeline: "August 2023 -  Continues"
-  repo: https://www.trive.com.tr/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary:  Trive mobil uygulamasına kullanıcının risk porfiline göre yatırım yapmasını sağlayan robo danışman, fonları kategorize eden fon dünyası, kullanıcının alım-satım emirlerini gördüğü emirlerim sayfası ve portföy dağılımını görebileceği fon portföyüm ekranlarını android/ios mobil uygulamalarına entegre ediyorum.
-  tags: ["React Native", "Swift", "Java"]
+  repo: https://www.colendi.com 
+  summary: Colendi aracı kurumu için, ana uygulamaya girişte kullanmak üzere otp doğrulama kodu üreten bir otp uygualamsı geliştirdim. Parmak izi ve faceId ile giriş yapma özelliği bulunan bu uygulamanın market dağıtım süreçlerinde bulundum.
+  tags: ["React Native", "TypeScript"]
+
+- name: Aktifbank
+  logo: /images/sections/projects/aktif.png
+  role: Software Engineer
+  timeline: "September 2024 -  Continues"
+  repo: https://www.nkolay.com/
+  summary:  Aktifbank N KOLAY mobil uygulamasına kullanıcının risk porfiline göre yatırım yapmasını sağlayan robo danışman, portföy dağılımını görebileceği fon portföyüm ekranlarını mobil uygulamalarına entegre ediyorum.
+  tags: ["React", "TypeScript"]
+
+- name: Misyonbank
+  logo: /images/sections/projects/misyon.png
+  role: Software Engineer
+  timeline: "April 2024 -  Continues"
+  repo: https://www.misyon.com/
+  summary:  Misyonbank mobil uygulamasına, Web-View teknolojisi ile ios-android Fon Market Sdk geliştirip mobil uygulamalarına entegre ettik.
+  tags: ["React", "TypeScript"]
+
 
 
