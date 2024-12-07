@@ -23,23 +23,23 @@ skills:
 
 - name: Swagger
   logo: /images/sections/skills/Swagger.png
-  summary: "REST API belgelendirmesinde Swagger'ın sağladığı kolaylık ve esnekliği sayesinde etkin ve anlaşılır API dokümantasyonları oluşturuyorum."
+  summary: "REST API belgelendirmesinde Swagger'ın sağladığı kolaylık ve esnekliği sayesinde etkin ve anlaşılır API dokümantasyonlarını kullanabiliyorum."
   url: "https://swagger.io/"
 
 - name: React
   logo: /images/sections/skills/React-Native.png
-  summary: "React ile frontend uygulamalar geliştiriyorum. Redux thunk ve persist ile state durumlarını kontrol edebiliyorum. Rest olarak verileri kullanabiliyorum. MongoDB ve Mysql veri tabanı ile çalışıyorum. TypeScript konusunda kendimi geliştirmeye çalışıyorum."
+  summary: "React ile pixel perfect frontend uygulamalar geliştiriyorum. State managment olarak redux-toolkit kullanıyorum. React sürüm geçişlerini sağlıyorum. TypeScript ile kullanıyorum."
   url: "https://reactjs.org/"
 
 - name: React Native
   logo: /images/sections/skills/React-Native.png
-  summary: "React Native ile mobil uygulama geliştiriyorum. Redux-toolkit ile state durumlarını kontrol edebiliyorum. Redux thunk ve persist ile de state durumlarını local storage'de tutabiliyorum.  MongoDB ve Mysql veritabanı ile çalışıyorum. Gradle ve Pod ile çalışma deneyimine sahibim. Ios ve Android Markete yükleme yapabiliyorum."
+  summary: "React Native ile mobil uygulama geliştiriyorum. State managment olarak redux-toolkit kullanıyorum. React Native sürüm geçişlerini sağlıyorum. Sdk olarak çıktı sağlayabiliyorum. Gradle ve Pod ile çalışma deneyimine sahibim. Ios ve Android Markete uygulama çıkabiliyorum."
   url: "https://reactnative.dev/"
 
-- name: Node.js
-  logo: /images/sections/skills/NodeJs.png
-  summary: "Backend tarafında Node.js kullanarak performansı yüksek API'ler geliştiriyorum. Express, Joi, Nodemon ve Json web token yapılarını kullandım."
-  url: "https://nodejs.org/en/docs/"
+- name: React Native Web
+  logo: /images/sections/skills/React-Native.png
+  summary: "React Native Wen ile web uygulama geliştiriyorum. State managment olarak redux-toolkit kullanıyorum. Webpack ile çalışma deneyimine sahibim, web geliştirmede react native web ilk tercihim olmasa da, profesyonel bir bankacılık projesinde kullanıp destek verdim. "
+  url: "https://reactnative.dev/"
 
 - name: Next.js
   logo: /images/sections/skills/nextjs-icon.png
@@ -56,20 +56,30 @@ skills:
   summary: "TypeSafety gerektiren projelerde TypeScript ile çalışmaktayım. Bu sayede hem hata oranını düşürüyor hem de kodların okunabilirliğini arttırıyorum."
   url: "https://www.typescriptlang.org/"
 
-- name: MySQL
-  logo: /images/sections/skills/MySQL.png
-  summary: "MySQL veritabanı ile uygulamalarımın verilerini saklıyorum. Function Trigger ve Procedure yapılarını kullanıyorum."
-  url: "https://www.mysql.com/"
+- name: Node.js
+  logo: /images/sections/skills/NodeJs.png
+  summary: "Backend tarafında Node.js kullanarak performansı yüksek API'ler geliştiriyorum. Express, Joi, Nodemon ve Json web token yapılarını kullandım."
+  url: "https://nodejs.org/en/docs/"
 
 - name: Firebase
   logo: /images/sections/skills/Firebase.png
-  summary: "Firebase ile oluşturduğum veritabanlarıyla projelerimin hızlı ve etkin şekilde veri ihtiyaçlarını karşılıyorum. Auth, Firestore ve Realtime Database gibi hizmetlerini aktif olarak kullanıyorum."
+  summary: "Projelerin push notification, app distribution ihtiyaçlarını buradan giderebiliyorum, kullanma ve entegrasyon deneyeimine sahibim."
   url: "https://firebase.google.com/"
 
-- name: MongoDB
-  logo: /images/sections/skills/MongoDB.png
-  summary: "MongoDB ile non-relational veritabanları oluşturuyorum. Bu sayede projelerimin ölçeklenebilirlik ve veri entegrasyonu konusunda esneklik kazanmasını sağlıyorum."
-  url: "https://www.mongodb.com/"
+- name: App Center
+  logo: /images/sections/skills/appCenter.png
+  summary: "Projelerin push notification, app distribution ihtiyaçlarını buradan giderebiliyorum, ayrıca code-push kullanabiliyorum. Kullanma ve entegrasyon deneyeimine sahibim."
+  url: "https://appcenter.ms/"
+
+- name: Azure DevOps
+  logo: /images/sections/skills/azureDevops.png
+  summary: "Projedeki sprintin takibi, ürün yönetiminin ilettiği issueların tamamlanması ve uygulamanın cı/cd süreçleri için kullanabiliyorum."
+  url: "https://azure.microsoft.com/en-us/products/devops"
+
+- name: Jira
+  logo: /images/sections/skills/jira.png
+ summary: "Projedeki sprintin takibi, ürün yönetiminin ilettiği issueların tamamlanması ve uygulamanın cı/cd süreçleri için kullanabiliyorum."
+  url: "https://www.atlassian.com/"
 
 - name: Docker
   logo: /images/sections/skills/docker.png
