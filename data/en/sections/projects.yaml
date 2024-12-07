@@ -34,7 +34,7 @@ projects:
   logo: /images/sections/projects/burgan.png
   role: Software Engineer
   timeline: "September 2023 -  Continues"
-  repo: https://www.burgan.com.tr/birikim-yonetimi/yatirim-hizmetleri/yatirim-fonlari/burgan-fon-evreni/
+  repo: https://www.burgan.com.tr/birikim-yonetimi/yatirim-hizmetleri/yatirim-fonlari/burgan-fon-evreni
   summary: Burganbank fon evreni, web altyapısıyla geliştirilmiş bir webView uygualamdır, burada çeşitli geliştirmelerde bulundum.
   tags: ["React", "JavaScript"]
 
