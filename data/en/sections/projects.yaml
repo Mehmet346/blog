@@ -35,7 +35,7 @@ projects:
   role: Software Engineer
   timeline: "September 2023 -  Continues"
   repo: https://www.burgan.com.tr/birikim-yonetimi/yatirim-hizmetleri/yatirim-fonlari/burgan-fon-evreni
-  summary: Burganbank fon evreni, web altyapısıyla geliştirilmiş bir webView uygualamdır, burada çeşitli geliştirmelerde bulundum.
+  summary: Burganbank fon evreni, mobil ve web tarafında sdk olarak geliştirlen bir yatırım uygulamasıdır, burada çeşitli geliştirmelerde bulundum.
   tags: ["React", "JavaScript"]
 
 - name: Misyonbank
@@ -43,7 +43,7 @@ projects:
   role: Software Engineer
   timeline: "April 2024 -  Continues"
   repo: https://www.misyon.com/
-  summary:  Misyonbank mobil uygulamasına, Web-View teknolojisi ile ios-android Fon Market Sdk geliştirip mobil uygulamalarına entegre ettik.
+  summary:  Misyonbank mobil uygulamasına, mobil tarafında sdk olarak geliştirlen Fon Market'i geliştiriyoruz.
   tags: ["React", "TypeScript"]
 
 - name: Aktifbank
@@ -51,7 +51,7 @@ projects:
   role: Software Engineer
   timeline: "September 2024 -  Continues"
   repo: https://www.nkolay.com/
-  summary:  Aktifbank N KOLAY mobil uygulamasına kullanıcının risk porfiline göre yatırım yapmasını sağlayan robo danışman, portföy dağılımını görebileceği fon portföyüm ekranlarını mobil uygulamalarına entegre ediyorum.
+  summary:  Aktifbank N KOLAY mobil uygulamasına kullanıcının risk porfiline göre yatırım yapmasını sağlayan robo danışman sdk'sını mobil uygulamalarına geliştirip entegre ediyoruz.
   tags: ["React", "TypeScript"]
   
 - name: Colendi
