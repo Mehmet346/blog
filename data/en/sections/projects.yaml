@@ -38,13 +38,13 @@ projects:
   summary: Burganbank fon evreni, web altyapısıyla geliştirilmiş bir webView uygualamdır, burada çeşitli geliştirmelerde bulundum.
   tags: ["React", "JavaScript"]
 
-- name: Colendi
-  logo: /images/sections/projects/colendi.png
+- name: Misyonbank
+  logo: /images/sections/projects/misyon.png
   role: Software Engineer
-  timeline: "August 2023 -  Continues"
-  repo: https://www.colendi.com 
-  summary: Colendi aracı kurumu için, ana uygulamaya girişte kullanmak üzere otp doğrulama kodu üreten bir otp uygualamsı geliştirdim. Parmak izi ve faceId ile giriş yapma özelliği bulunan bu uygulamanın market dağıtım süreçlerinde bulundum.
-  tags: ["React Native", "TypeScript"]
+  timeline: "April 2024 -  Continues"
+  repo: https://www.misyon.com/
+  summary:  Misyonbank mobil uygulamasına, Web-View teknolojisi ile ios-android Fon Market Sdk geliştirip mobil uygulamalarına entegre ettik.
+  tags: ["React", "TypeScript"]
 
 - name: Aktifbank
   logo: /images/sections/projects/aktif.png
@@ -53,14 +53,16 @@ projects:
   repo: https://www.nkolay.com/
   summary:  Aktifbank N KOLAY mobil uygulamasına kullanıcının risk porfiline göre yatırım yapmasını sağlayan robo danışman, portföy dağılımını görebileceği fon portföyüm ekranlarını mobil uygulamalarına entegre ediyorum.
   tags: ["React", "TypeScript"]
-
-- name: Misyonbank
-  logo: /images/sections/projects/misyon.png
+  
+- name: Colendi
+  logo: /images/sections/projects/colendi.png
   role: Software Engineer
-  timeline: "April 2024 -  Continues"
-  repo: https://www.misyon.com/
-  summary:  Misyonbank mobil uygulamasına, Web-View teknolojisi ile ios-android Fon Market Sdk geliştirip mobil uygulamalarına entegre ettik.
-  tags: ["React", "TypeScript"]
+  timeline: "August 2023 -  Continues"
+  repo: https://www.colendi.com 
+  summary: Colendi aracı kurumu için, ana uygulamaya girişte kullanmak üzere otp doğrulama kodu üreten bir otp uygualamsı geliştirdim. Parmak izi ve faceId ile giriş yapma özelliği bulunan bu uygulamanın market dağıtım süreçlerinde bulundum.
+  tags: ["React Native", "TypeScript"]
+
+
 
 
 
