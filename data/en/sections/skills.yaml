@@ -41,6 +41,16 @@ skills:
   summary: "React Native Web ile web uygulama geliştiriyorum. State managment olarak redux-toolkit kullanıyorum. Webpack ile çalışma deneyimine sahibim, web geliştirmede react native web ilk tercihim olmasa da, profesyonel bir bankacılık projesinde kullanıp destek verdim. "
   url: "https://reactnative.dev/"
 
+- name: Ionic
+  logo: /images/sections/skills/ionic.png
+  summary: "Ionic teknolojisinde React üzerinden ilerleyerek, mobil projenin ihtiyacına göre native SDK çıktısı üretebiliyorum. Bunun yanı sıra, Ionic'in güçlü UI bileşenleri ve platforma özgü entegrasyonları sayesinde, kullanıcı deneyimini optimize eden ve performanslı uygulamalar geliştirebiliyorum. Ayrıca, tek bir kod tabanıyla hem iOS hem de Android platformlarında uyumlu çözümler sunabiliyorum."
+  url: "https://ionicframework.com/"
+
+- name: Elektron
+  logo: /images/sections/skills/elektron.png
+  summary: "Elektron kullanarak, masaüstü uygulamalar yazabiliyorum ve çapraz platform desteği sunan uygulamalar geliştirebiliyorum. Ayrıca, Electron'un geniş API desteği sayesinde native özelliklere erişim sağlayarak kullanıcı dostu ve performanslı çözümler üretebiliyorum."
+  url: "https://www.electronjs.org/"
+
 - name: Next.js
   logo: /images/sections/skills/nextjs-icon.png
   summary: "React'ın sunduğu tüm avantajları Next.js ile sunucu tarafına taşıyarak daha kararlı ve etkin uygulamalar geliştirmekteyim."
@@ -53,7 +63,7 @@ skills:
 
 - name: TypeScript
   logo: /images/sections/skills/typeScript.png
-  summary: "TypeSafety gerektiren projelerde TypeScript ile çalışmaktayım. Bu sayede hem hata oranını düşürüyor hem de kodların okunabilirliğini arttırıyorum."
+  summary: "Tercihen TypeScript ile geliştiriyorum. Özellikle type safety gerektiren finans uygulamalarında faydasını gördüm. Bu sayede hem hata oranını düşürüyor hem de kodların okunabilirliğini arttırıyorum."
   url: "https://www.typescriptlang.org/"
 
 - name: Node.js
