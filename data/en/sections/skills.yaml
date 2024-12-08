@@ -28,22 +28,22 @@ skills:
 
 - name: React
   logo: /images/sections/skills/React-Native.png
-  summary: "React ile pixel perfect frontend uygulamalar geliştiriyorum. State managment olarak redux-toolkit kullanıyorum. React sürüm geçişlerini sağlıyorum. TypeScript ile kullanıyorum."
+  summary: "React ile pixel perfect frontend uygulamalar geliştiriyorum ve state management için Redux Toolkit kullanıyorum. React projelerinde sürüm geçişlerini sorunsuz bir şekilde yöneterek kod tabanını güncel tutuyorum. Ayrıca, TypeScript ile tip güvenliğini sağlayarak daha ölçeklenebilir ve sürdürülebilir projeler geliştiriyorum."
   url: "https://reactjs.org/"
 
 - name: React Native
   logo: /images/sections/skills/React-Native.png
-  summary: "React Native ile mobil uygulama geliştiriyorum. State managment olarak redux-toolkit kullanıyorum. React Native sürüm geçişlerini sağlıyorum. Sdk olarak çıktı sağlayabiliyorum. Gradle ve Pod ile çalışma deneyimine sahibim. Ios ve Android Markete uygulama çıkabiliyorum."
+  summary: "React Native ile mobil uygulamalar geliştiriyorum ve state management için Redux Toolkit kullanıyorum. React Native projelerinde sürüm geçişlerini başarılı bir şekilde yönetiyor ve ihtiyaçlara uygun SDK çıktıları üretebiliyorum. Gradle ve Pod ile çalışma deneyimine sahip olarak, uygulamaların yapılandırma ve bağımlılık yönetimini etkin bir şekilde gerçekleştiriyorum. Ayrıca, hem iOS hem de Android marketlerine uygulama yayınlama süreçlerinde tecrübeliyim."
   url: "https://reactnative.dev/"
 
 - name: React Native Web
   logo: /images/sections/skills/React-Native.png
-  summary: "React Native Web ile web uygulama geliştiriyorum. State managment olarak redux-toolkit kullanıyorum. Webpack ile çalışma deneyimine sahibim, web geliştirmede react native web ilk tercihim olmasa da, profesyonel bir bankacılık projesinde kullanıp destek verdim. "
+  summary: "React Native Web ile web uygulamaları geliştiriyorum ve state management için Redux Toolkit kullanıyorum. Webpack ile çalışma deneyimine sahibim ve web geliştirmede her ne kadar React Native Web ilk tercihim olmasa da, profesyonel bir bankacılık projesinde bu teknolojiyi başarıyla kullanıp destek verdim. Böylelikle, React Native Web'in avantajlarını projeye entegre ederek uyumlu ve performanslı çözümler üretebilme konusunda deneyim kazandım."
   url: "https://reactnative.dev/"
 
 - name: Ionic
   logo: /images/sections/skills/ionic.png
-  summary: "Ionic teknolojisinde React üzerinden ilerleyerek, mobil projenin ihtiyacına göre native SDK çıktısı üretebiliyorum. Bunun yanı sıra, Ionic'in güçlü UI bileşenleri ve platforma özgü entegrasyonları sayesinde, kullanıcı deneyimini optimize eden ve performanslı uygulamalar geliştirebiliyorum. Ayrıca, tek bir kod tabanıyla hem iOS hem de Android platformlarında uyumlu çözümler sunabiliyorum."
+  summary: "Ionic teknolojisinde React üzerinden ilerleyerek, mobil projenin ihtiyacına göre native SDK çıktısı üretebiliyorum. Bunun yanı sıra, tek bir kod tabanıyla hem iOS hem de Android platformlarında uyumlu çözümler sunabiliyorum."
   url: "https://ionicframework.com/"
 
 - name: Elektron
@@ -53,7 +53,7 @@ skills:
 
 - name: Next.js
   logo: /images/sections/skills/nextjs-icon.png
-  summary: "React'ın sunduğu tüm avantajları Next.js ile sunucu tarafına taşıyarak daha kararlı ve etkin uygulamalar geliştirmekteyim."
+  summary: "React'ın sunduğu tüm avantajları Next.js ile sunucu tarafına taşıyarak daha kararlı ve etkin uygulamalar geliştirmekteyim. Ayrıca, ölçeklenebilir ve modern web projelerinde performansı artırmak için Next.js'in tam potansiyelini kullanıyorum."
   url: "https://nextjs.org/"
 
 - name: JavaScript
@@ -68,7 +68,7 @@ skills:
 
 - name: Node.js
   logo: /images/sections/skills/NodeJs.png
-  summary: "Backend tarafında Node.js kullanarak performansı yüksek API'ler geliştiriyorum. Express, Joi, Nodemon ve Json web token yapılarını kullandım."
+  summary: "Backend tarafında Node.js kullanarak API'ler geliştiriyorum. Express, Joi, Nodemon ve Json web token yapılarını kullandım."
   url: "https://nodejs.org/en/docs/"
 
 - name: Firebase
