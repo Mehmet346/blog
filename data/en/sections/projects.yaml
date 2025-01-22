@@ -59,7 +59,7 @@ projects:
   role: Software Engineer
   timeline: "August 2023 -  Continues"
   repo: https://www.colendi.com 
-  summary: Colendi aracı kurumu için, ana uygulamaya girişte kullanmak üzere otp doğrulama kodu üreten bir otp uygulaması geliştirdim. Parmak izi ve faceId ile giriş yapma özelliği bulunan bu uygulamanın market dağıtım süreçlerinde bulundum.
+  summary: Colendi kurumu için, ana uygulamaya girişte kullanmak üzere uçtan uça şifrelenerek veri alışverişi gerçekleştiren ve otp doğrulama kodu üreten bir onay uygulaması geliştirdim. Parmak izi ve faceId ile giriş yapma özelliği bulunan bu uygulamanın market dağıtım süreçlerinde bulundum.
   tags: ["React Native", "TypeScript"]
 
 
