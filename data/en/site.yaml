@@ -7,7 +7,7 @@ You can modify or distribute the theme without requiring any permission from the
 However, the theme author does not provide any warranty or takes any liability for any issue with the theme."
 
 # Meta description for your site.  This will help the search engines to find your site.
-description: İnfina Yazılım şirketinde yazılım mühendisi olarak çalışıyorum. Bankacılık, borsa web ve  mobil uygulamarına ekranlar geliştiriyoruz. Takım çalışmasını seven, liderlik konusunda sorumluluk alabilen birisiyim. Gelişime açık, dinamik ve her zaman ideallerine ulaşmak için çabalayan bir Yazılım Mühendisiyim.
+description: İnfina Yazılım şirketinde yazılım mühendisi olarak çalışıyorum. Bankacılık, borsa web ve  mobil uygulamalarına ekranlar geliştiriyoruz. Takım çalışmasını seven, liderlik konusunda sorumluluk alabilen birisiyim. Gelişime açık, dinamik ve her zaman ideallerine ulaşmak için çabalayan bir Yazılım Mühendisiyim.
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
@@ -19,6 +19,6 @@ description: İnfina Yazılım şirketinde yazılım mühendisi olarak çalış�
 openGraph:
   title: Mehmet Ali Özdoğan
   type: website
-  description: "İnfina Yazılım şirketinde yazılım mühendisi olarak çalışıyorum. Bankacılık, borsa web ve  mobil uygulamarına ekranlar geliştiriyoruz. Takım çalışmasını seven, liderlik konusunda sorumluluk alabilen birisiyim. Gelişime açık, dinamik ve her zaman ideallerine ulaşmak için çabalayan bir Yazılım Mühendisiyim."
+  description: "İnfina Yazılım şirketinde yazılım mühendisi olarak çalışıyorum. Bankacılık, borsa web ve  mobil uygulamalarına ekranlar geliştiriyoruz. Takım çalışmasını seven, liderlik konusunda sorumluluk alabilen birisiyim. Gelişime açık, dinamik ve her zaman ideallerine ulaşmak için çabalayan bir Yazılım Mühendisiyim."
   image: images/author/john.png
   url: https://mehmetaliozdogan.com
