@@ -38,6 +38,14 @@ projects:
   summary: Burganbank fon evreni, mobil ve web tarafında sdk olarak geliştirlen bir yatırım uygulamasıdır, burada çeşitli geliştirmelerde bulundum.
   tags: ["React", "JavaScript"]
 
+- name: Odeabank Fonkolay
+  logo: /images/sections/projects/odeabank.png
+  role: Software Engineer
+  timeline: "May 2022 -  Continues"
+  repo: https://www.odeabank.com.tr/ 
+  summary: Fonkolay, bankanın şube personeli için tasarlanmış, fonları getirisine ve müşteri portfoyündeki adedine göre görüntüleyen, banka personeline yardımcı bir fon modülüdür.
+  tags: ["React", "JavaScript"]
+
 - name: MyBanka Fon Market
   logo: /images/sections/projects/misyon.png
   role: Software Engineer
