@@ -70,12 +70,12 @@ projects:
   summary: Misyon Yatırım Bankası mobil uygulamasına, mobil tarafında sdk olarak geliştirlen Fon Market'i geliştiriyoruz.
   tags: ["React", "TypeScript"]
 
-- name: Türkiye Ürün ve İhtisas Borsası A.Ş.
+- name: Türkiye Ürün ve İhtisas Borsası
   logo: /images/sections/projects/turib_logo.png
   role: Software Engineer
   timeline: "April 2024 -  Continues"
   repo: https://www.turib.com.tr/
-  summary: Ürün piyasası aracı kurumları için emir gönderimi, takibi nakit çekimi ve operasyonel işlemler için, 6 adet mobil uygulama ve e-şube profillenmiş şekilde geliştirildi.
+  summary: Ürün piyasası aracı kurumları için emir gönderimi, emir takibi, nakit çekimi ve operasyonel işlemler için, 6 adet mobil uygulama ve e-şube profillenmiş şekilde geliştirildi.
   tags: ["React Native", "React", "TypeScript"]
 
 
