@@ -22,7 +22,7 @@ buttons:
 # your projects
 projects:
 
-- name: Fibabanka 
+- name: Fibabanka Fon Market
   logo: /images/sections/projects/fiba.png
   role: Software Engineer
   timeline: "June 2023 -  Continues"
@@ -30,7 +30,7 @@ projects:
   summary: Fibabanka Fon Market SDK'sına öneri alma, geçmiş öneri hesaplama ve dağılımları görüntüleme ekranlarını entegre ettim.
   tags: ["React Native", "React Native Web", "JavaScript"]
 
-- name: Burganbank
+- name: Burganbank Fon Evreni
   logo: /images/sections/projects/burgan.png
   role: Software Engineer
   timeline: "September 2023 -  Continues"
@@ -38,15 +38,15 @@ projects:
   summary: Burganbank fon evreni, mobil ve web tarafında sdk olarak geliştirlen bir yatırım uygulamasıdır, burada çeşitli geliştirmelerde bulundum.
   tags: ["React", "JavaScript"]
 
-- name: Misyonbank
+- name: MyBanka Fon Market
   logo: /images/sections/projects/misyon.png
   role: Software Engineer
   timeline: "April 2024 -  Continues"
   repo: https://www.misyon.com/
-  summary:  Misyonbank mobil uygulamasına, mobil tarafında sdk olarak geliştirlen Fon Market'i geliştiriyoruz.
+  summary:  Misyon Yatırım Bankası mobil uygulamasına, mobil tarafında sdk olarak geliştirlen Fon Market'i geliştiriyoruz.
   tags: ["React", "TypeScript"]
 
-- name: Aktifbank
+- name: Aktifbank Robo
   logo: /images/sections/projects/aktif.png
   role: Software Engineer
   timeline: "September 2024 -  Continues"
@@ -54,7 +54,7 @@ projects:
   summary:  Aktifbank N KOLAY mobil uygulamasına kullanıcının risk porfiline göre yatırım yapmasını sağlayan robo danışman sdk'sını mobil uygulamalarına geliştirip entegre ediyoruz.
   tags: ["React", "TypeScript"]
   
-- name: Colendi
+- name: Colendi Onay
   logo: /images/sections/projects/colendi.png
   role: Software Engineer
   timeline: "August 2023 -  Continues"
