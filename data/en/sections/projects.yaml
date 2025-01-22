@@ -46,13 +46,13 @@ projects:
   summary: Fonkolay, bankanın şube personeli için tasarlanmış, fonları getirisine ve müşteri portfoyündeki adedine göre görüntüleyen, banka personeline yardımcı bir fon modülüdür.
   tags: ["React", "JavaScript"]
 
-- name: MyBanka Fon Market
-  logo: /images/sections/projects/misyon.png
+- name: Colendi Onay
+  logo: /images/sections/projects/colendi.png
   role: Software Engineer
-  timeline: "April 2024 -  Continues"
-  repo: https://www.misyon.com/
-  summary:  Misyon Yatırım Bankası mobil uygulamasına, mobil tarafında sdk olarak geliştirlen Fon Market'i geliştiriyoruz.
-  tags: ["React", "TypeScript"]
+  timeline: "August 2023 -  Continues"
+  repo: https://www.colendi.com 
+  summary: Colendi kurumu için, ana uygulamaya girişte kullanmak üzere uçtan uça şifrelenerek veri alışverişi gerçekleştiren ve otp doğrulama kodu üreten bir onay uygulaması geliştirdim. Parmak izi ve faceId ile giriş yapma özelliği bulunan bu uygulamanın market dağıtım süreçlerinde bulundum.
+  tags: ["React Native", "TypeScript"]
 
 - name: Aktifbank Robo
   logo: /images/sections/projects/aktif.png
@@ -62,13 +62,13 @@ projects:
   summary:  Aktifbank N KOLAY mobil uygulamasına kullanıcının risk porfiline göre yatırım yapmasını sağlayan robo danışman sdk'sını mobil uygulamalarına geliştirip entegre ediyoruz.
   tags: ["React", "TypeScript"]
   
-- name: Colendi Onay
-  logo: /images/sections/projects/colendi.png
+- name: MyBanka Fon Market
+  logo: /images/sections/projects/misyon.png
   role: Software Engineer
-  timeline: "August 2023 -  Continues"
-  repo: https://www.colendi.com 
-  summary: Colendi kurumu için, ana uygulamaya girişte kullanmak üzere uçtan uça şifrelenerek veri alışverişi gerçekleştiren ve otp doğrulama kodu üreten bir onay uygulaması geliştirdim. Parmak izi ve faceId ile giriş yapma özelliği bulunan bu uygulamanın market dağıtım süreçlerinde bulundum.
-  tags: ["React Native", "TypeScript"]
+  timeline: "April 2024 -  Continues"
+  repo: https://www.misyon.com/
+  summary:  Misyon Yatırım Bankası mobil uygulamasına, mobil tarafında sdk olarak geliştirlen Fon Market'i geliştiriyoruz.
+  tags: ["React", "TypeScript"]
 
 
 
