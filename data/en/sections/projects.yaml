@@ -59,7 +59,7 @@ projects:
   role: Software Engineer
   timeline: "September 2024 -  Continues"
   repo: https://www.nkolay.com/
-  summary:  Aktifbank N KOLAY mobil uygulamasına kullanıcının risk porfiline göre yatırım yapmasını sağlayan robo danışman sdk'sını mobil uygulamalarına geliştirip entegre ediyoruz.
+  summary: Aktifbank N KOLAY mobil uygulamasına kullanıcının risk porfiline göre yatırım yapmasını sağlayan robo danışman sdk'sını mobil uygulamalarına geliştirip entegre ediyoruz.
   tags: ["React", "TypeScript"]
   
 - name: MyBanka Fon Market
@@ -67,9 +67,16 @@ projects:
   role: Software Engineer
   timeline: "April 2024 -  Continues"
   repo: https://www.misyon.com/
-  summary:  Misyon Yatırım Bankası mobil uygulamasına, mobil tarafında sdk olarak geliştirlen Fon Market'i geliştiriyoruz.
+  summary: Misyon Yatırım Bankası mobil uygulamasına, mobil tarafında sdk olarak geliştirlen Fon Market'i geliştiriyoruz.
   tags: ["React", "TypeScript"]
 
+- name: Türkiye Ürün ve İhtisas Borsası A.Ş.
+  logo: /images/sections/projects/turib_logo.png
+  role: Software Engineer
+  timeline: "April 2024 -  Continues"
+  repo: https://www.turib.com.tr/
+  summary: Ürün piyasası aracı kurumları için emir gönderimi, takibi nakit çekimi ve operasyonel işlemler için, 6 adet mobil uygulama ve e-şube profillenmiş şekilde geliştirildi.
+  tags: ["React Native", "React", "TypeScript"]
 
 
 
