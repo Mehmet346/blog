@@ -134,7 +134,7 @@
         {{ end }}
       </div>
     </div>
-    {{ if and $disclaimerEnabled $disclaimer}}
+    {{ if $disclaimerEnabled}}
     <hr />
     <div class="container">
       <p id="disclaimer"><strong>{{ i18n "disclaimer_text" }}:</strong> {{ $disclaimer }}</p>
