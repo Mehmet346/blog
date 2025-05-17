@@ -3,7 +3,7 @@
 {{ $navigationEnabled  := site.Params.footer.navigation.enable  | default true }}
 {{ $contactMeEnabled   := site.Params.footer.contactMe.enable   | default true }}
 {{ $newsletterEnabled  := site.Params.footer.newsletter.enable  | default true }}
-{{ $credentialsEnabled := site.Params.footer.credentials.enable | default true }}
+{{ $credentialsEnabled := site.Params.footer.credentials.enable | default false }}
 {{ $disclaimerEnabled  := site.Params.footer.disclaimer.enable  | default false }}
 
 {{/*  Keep backward compatibility for the newsletter function */}}
@@ -143,8 +143,10 @@
     {{ if $credentialsEnabled }}
     <hr />
     <div class="container">
-      <div class="text-center">
-        <div class="col-md-4 text-center">{{ $copyrightNotice | markdownify }}</div>
+      <div class="row justify-content-center">
+        <div class="col-md-4 text-center">
+          {{ $copyrightNotice | markdownify }}
+        </div>
       </div>
     </div>
     {{ end }}
